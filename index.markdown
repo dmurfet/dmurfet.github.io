@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Iluka Learning Lab
-
 ![Great ocean road](https://outbackfree.imgix.net/content/tours/Grayline/Great_Ocean_Road/064OK_IMGP0415-X2.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
 
 We work on deep learning, from fundamental mathematical theory through to real-world applications. There is a new industrial revolution on the way, and it is imperative that Australia increases the growth-rate of research and applied expertise in deep learning. To this end we seek to make breakthrough theoretical contributions, publish in the top conferences (NeurIPS, ICML, ICLR, ...) and train *many* Master and PhD students in this quickly emerging field. We hope that some of these students will found companies, providing employment for other mathematicians and contributing to Australian productivity growth through new forms of perceptual and cognitive automation.

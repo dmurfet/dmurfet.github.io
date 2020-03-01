@@ -7,11 +7,13 @@ layout: home
 
 ![Great ocean road](https://outbackfree.imgix.net/content/tours/Grayline/Great_Ocean_Road/064OK_IMGP0415-X2.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
 
-We work on deep learning, from fundamental mathematical theory through to real-world applications. There is a new industrial revolution on the way, and it is imperative that Australia increases the growth-rate of research and applied expertise in deep learning. To this end we seek to make breakthrough theoretical contributions, publish in the top conferences (NeurIPS, ICML, ICLR, ...) and train *many* Master and PhD students in this quickly emerging field. We hope that some of these students will found companies, providing employment for other mathematicians and contributing to Australian productivity growth through new forms of perceptual and cognitive automation.
+We work on deep learning, from fundamental mathematical theory through to real-world applications. 
+
+There is a new industrial revolution on the way, and it is imperative that Australia increases the growth-rate of research and applied expertise in deep learning. To this end we seek to make breakthrough theoretical contributions, publish in the top conferences (NeurIPS, ICML, ICLR, ...) and train *many* Master and PhD students in this quickly emerging field. We hope that some of these students will found companies, providing employment for other mathematicians and contributing to Australian productivity growth through new forms of perceptual and cognitive automation.
 
 We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne. We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep learning and maintain a community resource about [deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99). We are looking for highly-motivated students to join our group, at either Masters or PhD level: [apply here](mailto:d.murfet@unimelb.edu.au). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
 
-*Iluka is an Aboriginal Australian word meaning: by the sea.*
+*Iluka is an Aboriginal Australian word [meaning](https://www.gnb.nsw.gov.au/place_naming/placename_search/extract?id=MackXtrXan): by the sea.*
 
 ## People
 

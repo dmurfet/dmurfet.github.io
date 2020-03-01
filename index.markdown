@@ -9,15 +9,22 @@ layout: home
 
 We work on deep learning, from fundamental mathematical theory through to real-world applications. There is a new industrial revolution on the way, and it is imperative that Australia increases the growth-rate of research and applied expertise in deep learning. To this end we seek to make breakthrough theoretical contributions, publish in the top conferences (NeurIPS, ICML, ICLR, ...) and train *many* Master and PhD students in this quickly emerging field. We hope that some of these students will found companies, providing employment for other mathematicians and contributing to Australian productivity growth through new forms of perceptual and cognitive automation.
 
-We are part of the School of Mathematics and Statistics at the University of Melbourne. We have run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep reinforcement learning and maintain a resource of [deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99). We are looking for highly-motivated students to join our group, at either Masters or PhD level: [apply here](mailto:d.murfet@unimelb.edu.au). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
+We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne. We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep learning and maintain a community resource about [deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99). We are looking for highly-motivated students to join our group, at either Masters or PhD level: [apply here](mailto:d.murfet@unimelb.edu.au). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
 
-*Iluka is an Aboriginal Australian word meaning: by the sea*
+*Iluka is an Aboriginal Australian word meaning: by the sea.*
 
 ## People
 
+Main researchers:
+
 * [Mingming Gong](https://mingming-gong.github.io/): causal discovery, transfer learning, deep learning. Some relevant papers: [NeurIPS 2019](https://arxiv.org/abs/1907.02690), [NeurIPS 2019](https://papers.nips.cc/paper/8912-likelihood-free-overcomplete-ica-and-applications-in-causal-discovery.pdf), [NeurIPS 2019](https://papers.nips.cc/paper/9506-specific-and-shared-causal-relation-modeling-and-mechanism-based-clustering.pdf), [ICML 2019](http://proceedings.mlr.press/v97/huang19g/huang19g.pdf), [CVPR 2019](https://arxiv.org/abs/1809.05852), [CVPR 2019](https://arxiv.org/pdf/1904.01870.pdf).
 * Susan Wei: statistics, singular learning theory. 
-* [Daniel Murfet](http://therisingsea.org/): logic, deep reinforcement learning, singular learning theory. Some relevant papers: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr), papers on [linear](https://arxiv.org/abs/1805.10770) [logic](https://arxiv.org/abs/1805.11813).
+* [Daniel Murfet](http://therisingsea.org/): algebraic geometry, deep reinforcement learning, singular learning theory. Some relevant papers: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr), papers on [linear](https://arxiv.org/abs/1805.10770) [logic](https://arxiv.org/abs/1805.11813).
+
+Affiliated researchers from across the school:
+
+* Jesse Gell-Redman (analysis).
+* Thomas Quella (mathematical physics).
 
 ## Projects
 
@@ -37,8 +44,6 @@ Here are some of the currently active research projects that students might cont
 
 In semester two of 2019 we ran a seminar on reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
 
-* [Deep learning in Australia](https://gist.github.com/dmurfet/072e8503368acdccf32b641f1e800e99) a very rough list of researchers in this area.
-
 * [An introduction to deep reinforcement learning](https://arxiv.org/pdf/1811.12560.pdf).
 
 * [AlphaGo documentary](https://www.imdb.com/title/tt6700846/) on NetFlix.
@@ -50,10 +55,10 @@ There are three main components of AlphaGo: *Monte-Carlo tree search*, *deep lea
 Talk schedule:
 
   * Lecture 0: Geoff Hinton [video](https://www.youtube.com/watch?v=izrG86jycck) "Deep learning" ([brief notes by DM](http://therisingsea.org/notes/deeprl-seminar-talk1.pdf))
-  * Lecture 1: Daniel Murfet "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture1.pdf) | [video](https://youtu.be/cfLfpCJA9mE))
-  * Lecture 2: James Clift "Turing and Intelligent Machinery" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture2.pdf) | [video](https://youtu.be/iYdoW4ZLes4) | [Turing's paper](https://weightagnostic.github.io/papers/turing1948.pdf))
-  * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture3.pdf) | [video](https://youtu.be/Vv9dmlFZcfo))
-  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture4.pdf) | [paper](https://arxiv.org/pdf/1710.11278.pdf))
-  * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([video](https://youtu.be/ZFLJ7svnP5E) | [paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
+  * Lecture 1: Daniel Murfet "Introduction to reinforcement learning" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture1.pdf), [video](https://youtu.be/cfLfpCJA9mE))
+  * Lecture 2: James Clift "Turing and Intelligent Machinery" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture2.pdf), [video](https://youtu.be/iYdoW4ZLes4), [Turing's paper](https://weightagnostic.github.io/papers/turing1948.pdf))
+  * Lecture 3: Thomas Quella "Hopfield networks and statistical mechanics" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture3.pdf), [video](https://youtu.be/Vv9dmlFZcfo))
+  * Lecture 4: Will Troiani "Universal approximation by feedforward networks" ([notes](http://therisingsea.org/notes/deeprl-seminar-lecture4.pdf), [paper](https://arxiv.org/pdf/1710.11278.pdf))
+  * Lecture 5: Susan Wei "Deep learning as a continuous dynamical system" ([video](https://youtu.be/ZFLJ7svnP5E), [paper](http://www.jmlr.org/papers/volume18/17-653/17-653.pdf))
   * Lecture 6: Mingming Gong "Convolutional neural networks"
-  * Lecture 7: Daniel Murfet "AlphaGo" ([notes](http://therisingsea.org/notes/talk-alphago.pdf) | [video](https://youtu.be/rOiaZ1hVb-A))
+  * Lecture 7: Daniel Murfet "AlphaGo" ([notes](http://therisingsea.org/notes/talk-alphago.pdf), [video](https://youtu.be/rOiaZ1hVb-A))

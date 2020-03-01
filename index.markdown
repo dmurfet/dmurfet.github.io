@@ -32,15 +32,15 @@ Affiliated researchers from across the school:
 
 Here are some of the currently active research projects that students might contribute to:
 
-* **GANs everywhere, all the time**: (led by Mingming Gong)
+* **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
 
-* **Live from the Pareto front:** (led by Susan Wei)
+* **Bias in deep learning:** (led by Susan Wei) *details coming*
 
 * **Singular learning theory:** (led by Susan Wei, Daniel Murfet) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning.
 
-* **Reasoning in deep reinforcement learning:** (led by Daniel Murfet) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207). 
+* **Reasoning in deep reinforcement learning:** (led by Daniel Murfet) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
 
-* **Program synthesis in linear logic**: (led by Daniel Murfet) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) we are using differential linear logic to lay the foundations a theory of gradient-based program synthesis, also in the context of singular learning theory. This project would involve learning background logic, as well as implementations of logical ideas in Tensorflow or PyTorch.
+* **Program synthesis in linear logic**: (led by Daniel Murfet) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) we are using differential linear logic to lay the foundations a theory of gradient-based [program synthesis](https://gist.github.com/dmurfet/688af9d4413cbb9a13ca5d50b28ddcbc), also in the context of singular learning theory. This project would involve learning background logic, as well as implementations of logical ideas in Tensorflow or PyTorch.
 
 ## Events
 

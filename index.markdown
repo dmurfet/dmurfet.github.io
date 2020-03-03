@@ -25,8 +25,8 @@ Main researchers:
 
 Affiliated researchers from across the school:
 
-* Jesse Gell-Redman (analysis).
-* Thomas Quella (mathematical physics).
+* [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/) (analysis).
+* [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home) (mathematical physics, statistical mechanics).
 
 ## Research projects
 

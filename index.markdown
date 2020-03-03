@@ -28,9 +28,9 @@ Affiliated researchers from across the school:
 * Jesse Gell-Redman (analysis).
 * Thomas Quella (mathematical physics).
 
-## Projects
+## Research projects
 
-Here are some of the currently active research projects that students might contribute to:
+Students affiliated with the lab have a primary supervisor and a co-supervisor, and are expected to participate in the lab seminar as well as contributing to a research project. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
 
@@ -46,11 +46,11 @@ Here are some of the currently active research projects that students might cont
 
 ### Classes
 
-In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. 
+In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.
 
 ### Seminar
 
-In semester two of 2019 we ran a seminar on reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
+We run a research seminar on a range of topics within deep learning, *currently in hiatus*. In semester two of 2019 we ran a seminar on reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
 
 * [An introduction to deep reinforcement learning](https://arxiv.org/pdf/1811.12560.pdf).
 

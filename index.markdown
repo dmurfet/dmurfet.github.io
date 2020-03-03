@@ -25,8 +25,8 @@ The lab involves five faculty from across the School of Mathematics and Statisti
 
 The other researchers in the lab, for whom deep learning is a minor research area:
 
-* [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/) (analysis).
-* [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home) (mathematical physics, statistical mechanics).
+* [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/): analysis, singular learning theory.
+* [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home): mathematical physics, statistical mechanics, singular learning theory.
 
 Students in the lab have a primary supervisor from among Gong, Wei and Murfet and a co-supervisor who is any of the five researchers listed above.
 

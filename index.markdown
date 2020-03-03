@@ -44,6 +44,12 @@ Here are some of the currently active research projects that students might cont
 
 ## Events
 
+### Classes
+
+In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. 
+
+### Seminar
+
 In semester two of 2019 we ran a seminar on reasoning in the context of **deep reinforcement learning** with an aim to understand AlphaGo and related breakthroughs, such as AlphaStar. Along the way we looked at deep learning more generally. Some relevant background information:
 
 * [An introduction to deep reinforcement learning](https://arxiv.org/pdf/1811.12560.pdf).

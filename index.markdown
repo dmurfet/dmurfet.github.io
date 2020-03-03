@@ -17,16 +17,18 @@ We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu
 
 ## People
 
-Main researchers:
+The lab involves five faculty from across the School of Mathematics and Statistics. The primary researchers (for whom deep learning is a major component of their overall research agenda):
 
 * [Mingming Gong](https://mingming-gong.github.io/): causal discovery, transfer learning, deep learning. Some relevant papers: [NeurIPS 2019](https://arxiv.org/abs/1907.02690), [NeurIPS 2019](https://papers.nips.cc/paper/8912-likelihood-free-overcomplete-ica-and-applications-in-causal-discovery.pdf), [NeurIPS 2019](https://papers.nips.cc/paper/9506-specific-and-shared-causal-relation-modeling-and-mechanism-based-clustering.pdf), [ICML 2019](http://proceedings.mlr.press/v97/huang19g/huang19g.pdf), [CVPR 2019](https://arxiv.org/abs/1809.05852), [CVPR 2019](https://arxiv.org/pdf/1904.01870.pdf).
 * Susan Wei: statistics, reinforcement learning, singular learning theory. 
 * [Daniel Murfet](http://therisingsea.org/): algebraic geometry, logic, deep reinforcement learning, singular learning theory. Deep RL paper: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr) and papers on linear logic: [1](https://arxiv.org/abs/1805.10770) [2](https://arxiv.org/abs/1805.11813).
 
-Affiliated researchers from across the school:
+Other researchers (for whom deep learning is a minor research area):
 
 * [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/) (analysis).
 * [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home) (mathematical physics, statistical mechanics).
+
+Students in the lab have a primary supervisor from among Gong, Wei and Murfet and a co-supervisor who is any of the five researchers listed above.
 
 ## Research projects
 

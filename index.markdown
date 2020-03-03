@@ -32,7 +32,7 @@ Students in the lab have a primary supervisor from among Gong, Wei and Murfet an
 
 ## Research projects
 
-Students affiliated with the lab have a primary supervisor and a co-supervisor, and are expected to participate in the lab seminar as well as contributing to a research project. Here are some of the currently active projects for which we are seeking student contributors:
+Students affiliated with the lab have a primary supervisor and a co-supervisor, and are expected to participate in the lab seminar as well as contributing to a research project. Generally speaking we only supervise students at Master and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
 

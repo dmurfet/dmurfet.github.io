@@ -42,7 +42,7 @@ Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Mu
 
 * **Program synthesis in linear logic**: (led by Daniel Murfet) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) we are using differential linear logic to lay the foundations a theory of gradient-based [program synthesis](https://gist.github.com/dmurfet/688af9d4413cbb9a13ca5d50b28ddcbc), also in the context of singular learning theory. This project would involve learning background logic, as well as implementations of logical ideas in Tensorflow or PyTorch.
 
-The required background for these projects varies widely. For example, in the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
+The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 
 ## Events
 

@@ -34,7 +34,7 @@ Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Mu
 
 * **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
 
-* **Bias in deep learning:** (led by Susan Wei) *details coming*
+* **Fairness in deep learning:** (led by Susan Wei) improved techniques for imposing invariance on deep learning algorithms.
 
 * **Singular learning theory:** (led by Susan Wei, Daniel Murfet) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning.
 

@@ -28,11 +28,9 @@ The other researchers in the lab, for whom deep learning is a minor research are
 * [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/): analysis, singular learning theory.
 * [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home): mathematical physics, statistical mechanics, singular learning theory.
 
-Students in the lab have a primary supervisor from among Gong, Wei and Murfet and a co-supervisor who is any of the five researchers listed above.
-
 ## Research projects
 
-Students affiliated with the lab have a primary supervisor and a co-supervisor, and are expected to participate in the lab seminar as well as contributing to a research project. Generally speaking we only supervise students at Master and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
+Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the lab seminar as well as contributing to a research project. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
 

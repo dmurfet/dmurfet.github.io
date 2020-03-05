@@ -48,6 +48,8 @@ The required background for these projects varies widely. In the more engineerin
 
 ## Events
 
+The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [lab mailing list](https://tinyletter.com/ilukalab).
+
 ### Classes
 
 In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.

@@ -34,9 +34,9 @@ The other researchers in the lab, for whom deep learning is a minor research are
 
 Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the lab seminar. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
 
-* **Generative Adversarial networks**: (led by [Mingming Gong](https://mingming-gong.github.io/)) *details coming*
+* **Generative Adversarial networks**: (led by [Mingming Gong](https://mingming-gong.github.io/)) study how the causal generative process of data can benefit learning in non-standard settings, such as transfer learning and weakly-supervised learning. Develop methods to infer causal models from various kinds of observational data, including incomplete time series, noisy data, and nonstationary/heterogeneous data. On the application side, there are numerous projects in computer vision, biomedical informatics, and economic data analysis.
 
-* **Fairness in deep learning:** (led by Susan Wei) improved techniques for imposing invariance on deep learning algorithms.
+* **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 

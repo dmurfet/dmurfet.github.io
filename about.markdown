@@ -86,19 +86,18 @@ The most common [Field of Research](https://www.arc.gov.au/grants/grant-applicat
 
 ### 2020
 
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101610
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101610
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102427
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101068
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101640
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102252
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103718
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200100938
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101328
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103797
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103015
-https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245
+- [DE200101610](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101610) "Towards Explainable Multi-source Multivariate Time-series Analysis" University of Queensland (Sen Wang).
+- [DP200102427](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102427) "Active Visual Navigation in an Unexplored Environment" University of Adelaide (Ian Reid, Seyed Hamid Rezatofighi).
+- [DE200101253](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253) "Making Machine Learning Fair(er)" University of Melbourne (**Susan Wei**).
+- [DP200101068](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101068) "Weighing the Giants: Using Galaxy Clusters to understand Dark Energy" (Christian Reichardt).
+- [DP200101640](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101640) "When every second counts: Multi-drone navigation in GPS-denied environments" Queensland University of Technology and University of Technology Sydney (Luis Gonzalez, Jonghyuk Kim).
+- [DP200102252](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102252) "Deep Learning Architecture with Context Adaptive Features for Image Parsing" Central Queensland University (Brijesh Verma).
+- [DP200103718](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103718) "Edge-Accelerated Deep Learning" University of Sydney (Bing Zhou, Wei Bao, Nguyen Tran, Dong Yuan).
+- [DP200100938](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200100938) "Automatic Machine Learning with Imperfect Data for Video Analysis"
+- [DP200101328](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101328) "Adversarial Learning of Hybrid Representation" University of Technology Sydney (Ivor Tsang, Yulei Sui).
+- [DP200103797](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103797) "Deep Learning that Scales" University of Adelaide (Chunhua Shen).
+- [DP200103015](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103015) "Deep learning based time series modeling and financial forecasting" University of Sydney (Minh-Ngoc Tran, Junbin Gao, Richard Gerlach).
+- [DE200100245](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245) "Bayesian nonparametric learning for practical sequential decision making" (Junyu Xuan).
 
 ### 2019
 

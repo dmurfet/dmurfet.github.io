@@ -4,7 +4,7 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a (successful) subset of artificial intelligence, and there is a difference between the two: this document does not attempt to give an overview of AI in Australia.
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a (successful) subset of the broad field of machine learning and artificial intelligence; this document does not attempt to give an overview of the broader field.
 
 ## Who
 
@@ -45,8 +45,8 @@ The best venues for publication in deep learning are *conferences*. See below fo
 The technology-oriented institutes, centres and labs:
 
 - [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) (AIML), University of Adelaide, directed by Anton van den Hengel.
-- [ARC Centre for Robotic Vision](https://www.roboticvision.org/) directed by [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), deputy director Ian Reid.
-- ARC Training Centre for "[Cognitive Computing for Medical Technologies](https://aimedtech.org.au/)", University of Melbourne, directed by Tim Baldwin.
+- [ARC Centre for Robotic Vision](https://www.roboticvision.org/) directed by [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), deputy director [Ian Reid](https://cs.adelaide.edu.au/~ianr/).
+- [ARC Training Centre for Cognitive Computing for Medical Technologies](https://aimedtech.org.au/), University of Melbourne, directed by [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html).
 - [ReLER lab](http://reler.net/), University of Technology Sydney, directed by Yi Yang.
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 

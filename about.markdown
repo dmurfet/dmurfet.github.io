@@ -50,20 +50,13 @@ The technology-oriented institutes, centres and labs:
 - [ReLER lab](http://reler.net/), University of Technology Sydney, directed by Yi Yang.
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 
-Policy and society focused institutes:
+Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 - [Humanising Machine Intelligence](https://hmi.anu.edu.au/) (HMI)
 - [3AI](https://3ainstitute.cecs.anu.edu.au). Focused on policy implications of AI.
 - [Gradient Institute](https://gradientinstitute.org/). Focused on ethical AI.
 
-Somewhat related:
-
-- ARC Training Centre for "[Integrated Operations for Complex Resources](https://www.adelaide.edu.au/news/news108822.html)" $12.5m.
-- ARC Training Centre for "[Transforming Maintenance through Data Science](https://www.maintenance.org.au/)" more about Data Science.
-
 ## Conferences in deep learning
-
-For the following information I thank Mingming Gong.
 
 NeurIPS and ICML are the two most prestigious conferences in machine learning (including deep learning). ICLR, UAI, and AISTATS are smaller-scale conferences that are as prestigious as NeurIPS and ICML, but focusing on specific areas. ICLR focuses on deep learning, UAI focuses on graphical models and causal inference, and AISTATS focuses on the intersection between Statistics and ML. Most of the machine learning theories and new methodologies will appear in these conferences.
 

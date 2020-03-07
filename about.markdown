@@ -74,28 +74,17 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 ## Grants
 
-Found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants) using "deep learning". DP means Discovery Project, LP means Linkage Project, DE are DECRAS. Listed are CIs only.
+The following are all grants containing the term "deep learning" from 2018, found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
 
-- [DP180103232](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103232) "Deep reinforcement learning for discovering and visualising biomarkers" University of Adelaide (Gustavo Carneiro, Andrew Bradley, Lyle Palmer).
-- [LP180100697](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP180100697) "Music can speak for you: making music with a deep net partner" Western Sydney University (Roger Dean, Tara Hamilton).
-- [DP140102794](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP140102794) "Automated analysis of multi-modal medical data using deep belief networks" University of Adelaide (Gustavo Carneiro, Andrew Bradley).
-- [LP180101309](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP180101309) "Dynamic Deep Learning for Electricity Demand Forecasting" RMIT (Mahdi Jalili, Xinghuo Yu, Peter Sokolowski).
-- [DP180100106](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180100106) "Towards interpretable deep learning with limited examples" UTS (Ivor Tsang, Yi Yang).
-- [DP190102181](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102181) "
-Quantification, optimisation, and application of deep uncertainty" Deakin (Saeid Nahavandi, Abbas Khosravi, Chee Peng Lim).
-- [DP0770081](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP0770081) "Complexity, Risk Management and Dynamic Portfolio Selection in Investment Management using Advances in Evolutionary Parallel-computing Artificial Intelligence" Bond (Timothy Brailsford, Richard Terrell, Terence O'Neill, Tom Smith, Jack Penm).
-- [LP160101162](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP160101162) "
-A data science framework for modelling disease patterns from medical images" Sydney (Dagan Feng, Jinman Kim).
-- [DP180103491](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103491) "Intention-aware cooperative driving behaviour model for Automated Vehicles" QUT (Andry Rakotonirainy, Ronald Schroeter).
-- [DP180103023](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103023) "Deep visual understanding: learning to see in an unruly world" University of Adelaide (Andton van den Hengel, Damien Teney).
-- [DP190103744](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190103744) "X-ray imaging and magnetic resonance approach for enhanced oil recovery" UNSW (Crhsitoph Arns, Adrian Sheppard).
-- [DP180102060](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180102060) "
-Protein structure prediction by deep long-range learning" Griffith (Yaoqi Zhou, Kuldip Paliwal).
-- [DE180100203](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203) "Deep space-time models for modelling complex environmental phenomena" Wollongong (Andrew Zammit Mangion)
-- [DP190102443](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102443) "Defense against adversarial attacks on deep learning in computer vision" University of Western Australia (Ajmal Mian).
-- [LP170101255](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP170101255) "An automated system for the analysis of road safety and conditions" Central Queensland University (Brijesh Verma).
-- [DE170101259](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE170101259) "Zero-shot and few-shot learning with deep knowledge transfer" University of Adelaide (Lingqiao Liu).
-- [FL170100117](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FL170100117) "On snapping up semantics of dynamic pixels from moving cameras" University of Sydney (Dacheng Tao).
+The most common [Field of Research](https://www.arc.gov.au/grants/grant-application/classification-codes-rfcd-seo-and-anzsic-codes) (FoR) codes for research in deep learning:
+
+- **080109** - Pattern Recognition and Data Mining
+- **170203** - Knowledge Representation and Machine Learning
+- **0801** - Artificial Intelligence and Image Processing
+- **080108** - Neural, Evolutionary and Fuzzy Computation
+
+
+### 2020
 
 https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101610
 https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101610
@@ -111,11 +100,39 @@ https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103797
 https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103015
 https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245
 
-FoR codes:
-* 080109 - Pattern Recognition and Data Mining
-* 170203 - Knowledge Representation and Machine Learning
-* 0801 - Artificial Intelligence and Image Processing
-* 080108 - Neural, Evolutionary and Fuzzy Computation
+### 2019
+
+- [DP190102181](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102181) "
+Quantification, optimisation, and application of deep uncertainty" Deakin (Saeid Nahavandi, Abbas Khosravi, Chee Peng Lim).
+- [DP190102443](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102443) "Defense against adversarial attacks on deep learning in computer vision" University of Western Australia (Ajmal Mian).
+- [DP190103744](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190103744) "X-ray imaging and magnetic resonance approach for enhanced oil recovery" UNSW (Crhsitoph Arns, Adrian Sheppard).
+
+### 2018
+
+- [DP180103232](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103232) "Deep reinforcement learning for discovering and visualising biomarkers" University of Adelaide (Gustavo Carneiro, Andrew Bradley, Lyle Palmer).
+- [LP180100697](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP180100697) "Music can speak for you: making music with a deep net partner" Western Sydney University (Roger Dean, Tara Hamilton).
+- [LP180101309](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP180101309) "Dynamic Deep Learning for Electricity Demand Forecasting" RMIT (Mahdi Jalili, Xinghuo Yu, Peter Sokolowski).
+- [DP180100106](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180100106) "Towards interpretable deep learning with limited examples" UTS (Ivor Tsang, Yi Yang).
+- [DP180103491](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103491) "Intention-aware cooperative driving behaviour model for Automated Vehicles" QUT (Andry Rakotonirainy, Ronald Schroeter).
+- [DP180103023](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180103023) "Deep visual understanding: learning to see in an unruly world" University of Adelaide (Andton van den Hengel, Damien Teney).
+- [DP180102060](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180102060) "
+Protein structure prediction by deep long-range learning" Griffith (Yaoqi Zhou, Kuldip Paliwal).
+- [DE180100203](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203) "Deep space-time models for modelling complex environmental phenomena" Wollongong (Andrew Zammit Mangion)
+
+### 2017
+
+- [LP170101255](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP170101255) "An automated system for the analysis of road safety and conditions" Central Queensland University (Brijesh Verma).
+- [DE170101259](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE170101259) "Zero-shot and few-shot learning with deep knowledge transfer" University of Adelaide (Lingqiao Liu).
+- [FL170100117](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FL170100117) "On snapping up semantics of dynamic pixels from moving cameras" University of Sydney (Dacheng Tao).
+
+### 2016
+
+- [LP160101162](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP160101162) "
+A data science framework for modelling disease patterns from medical images" Sydney (Dagan Feng, Jinman Kim).
+
+### 2014
+
+- [DP140102794](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP140102794) "Automated analysis of multi-modal medical data using deep belief networks" University of Adelaide (Gustavo Carneiro, Andrew Bradley).
 
 - "Learning Deep Semantics for Automatic Translation between Human Languages (ARC DP, 2016 - 2019)" [link](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) CIs are Prof Trevor Cohn (UoM) and Prof. Reza Haffari (Monash).
 - "Deep Learning for Cybersecurity (DST/Data61, 2017-2021)" [link](https://www.monash.edu/it/our-research/strengths/data- science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung (Monash)

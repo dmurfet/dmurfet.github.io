@@ -4,7 +4,7 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a subset of artificial intelligence, and there is a difference between the two: this document does not attempt to give an overview of AI in Australia.
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a (successful) subset of artificial intelligence, and there is a difference between the two: this document does not attempt to give an overview of AI in Australia.
 
 ## Who
 

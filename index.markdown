@@ -53,12 +53,31 @@ To apply [send an email](mailto:d.murfet@unimelb.edu.au) and we'll meet to discu
 
 ## Events
 
-The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [lab mailing list](https://tinyletter.com/ilukalab).
-
-### Classes
+We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [lab mailing list](https://tinyletter.com/ilukalab). 
 
 In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.
 
-### Seminar
+## Why is deep learning important?
 
-We run a research seminar on a range of topics within deep learning, *currently in hiatus*. For past seminars see [here](seminar).
+### Australia specific
+
+* [Australia AI roadmap](https://data61.csiro.au/en/Our-Research/Our-Work/AI-Roadmap?featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap&featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap): solving problems, growing the economy and improving our quality of life. Prepared by CSIRO's Data61 for the Australian Government, this report is intended to help guide future investment in AI and machine learning (November 2019). Explains applications of deep learning to *natural resources and environment, health aging and disability and cities towns and infrastructure*.
+
+### Global
+
+* (France, Europe) [For a Meaningful Artificial Intelligence](https://ec.europa.eu/knowledge4policy/publication/meaningful-artificial-intelligence-towards-french-european-strategy_en): Towards a French and European Strategy. Written by **Cedric Villani** 2010 Fields medallist.
+
+* (China) [China's New Generation Artificial Intelligence Development Plan](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/) (full translation by New America).
+
+* (United States) [CSET: The Question of Comparative Advantage in Artificial Intelligence](https://cset.georgetown.edu/wp-content/uploads/CSET-The-Question-of-Comparative-Advantage-in-Artificial-Intelligence-1.pdf): Enduring Strengths and Emerging
+Challenges for the United States. Extract: *who is leading in artificial intelligence (AI) and machine learning (ML)? How should
+leadership in AI be evaluated or measured? Which aspects of comparative
+advantage in AI possess the greatest strategic importance? These questions are
+critical to address as nations around the world embrace the potential of AI through a
+range of policy initiatives.*
+
+* (United States) [Artificial Intelligence Index Report 2019](https://hai.stanford.edu/ai-index/2019) from Stanford's Human-Centered Artificial Intelligence. Tracks a range of useful metrics for understanding the field of AI.
+
+* (UK) [How robots change the world](http://resources.oxfordeconomics.com/how-robots-change-the-world): What automation really means for jobs and productivity. *Trends suggest the global stock of robots will multiply even faster in the next 20 years, reaching as many as 20 million by 2030, with 14 million in China alone. The implications are immense, and the emerging challenges for policy-makers are equally daunting in scale.*.
+
+* (United States) [AI Nationalism](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism) by Ian Hogarth (from June 2018 but still very much worth reading).

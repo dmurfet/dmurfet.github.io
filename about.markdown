@@ -74,7 +74,7 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 ## Grants
 
-The following are all grants containing the term "deep learning" from 2018, found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
+The following are all grants containing the term "deep learning" from 2018, found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra), **FT** are [Future Fellowships](https://www.arc.gov.au/grants/discovery-program/future-fellowships) and **FL** are [Laureate Fellowships](https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
 
 The most common [Field of Research](https://www.arc.gov.au/grants/grant-application/classification-codes-rfcd-seo-and-anzsic-codes) (FoR) codes for research in deep learning:
 
@@ -98,6 +98,15 @@ The most common [Field of Research](https://www.arc.gov.au/grants/grant-applicat
 - [DP200103797](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103797) "Deep Learning that Scales" University of Adelaide (Chunhua Shen).
 - [DP200103015](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103015) "Deep learning based time series modeling and financial forecasting" University of Sydney (Minh-Ngoc Tran, Junbin Gao, Richard Gerlach).
 - [DE200100245](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245) "Bayesian nonparametric learning for practical sequential decision making" University of Technology Sydney (Junyu Xuan).
+- [DP200102497](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102497) "Non-contact Integrity Assessment of Façade Panels of High-rise Buildings" University of Sydney (Lin Ye, Ye Lu, Dikai Liu).
+- [DP200103760](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103760) "
+Quantum-Inspired Machine Learning" University of Queensland (Ian McCulloch).
+- [DE200101439](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101439) "
+Towards a Reliable and Explainable Health Monitoring and Caring System" Macquarie Univeristy (Wenjie Ruan).
+- [DP200102274](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200102274) "3D Vision Geometric Optimisation in Deep Learning" Australian National University (Richard Hartley,
+Miaomiao Liu).
+- [DP200103207](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103207) "
+Privacy-preserving Biometrics based Authentication and Security" University of New South Wales (Jiankuun Hu).
 
 ### 2019
 
@@ -105,6 +114,17 @@ The most common [Field of Research](https://www.arc.gov.au/grants/grant-applicat
 - [DP190102443](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102443) "Defense against adversarial attacks on deep learning in computer vision" University of Western Australia (Ajmal Mian).
 - [DP190103744](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190103744) "X-ray imaging and magnetic resonance approach for enhanced oil recovery" UNSW (Crhsitoph Arns, Adrian Sheppard).
 - "Towards Data-Efficient Future Action Prediction in the Wild (ARC DECRA, 2019-2021)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/computer-vision-research-projects), Dr. Xiaojun Chang (Monash).
+- [LP190100378](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP190100378) "
+Deep Learning Augmented Intelligent Grinding Mill Simulation and Design" University of Newcastle (Craig Wheeler, Stephan Chalup, Mark Jones, Gabriel Lodewijks).
+- [DP190101294](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190101294) "
+Improving the specificity of affective computing via multimodal analysis" University of Canberra (Roland Goecke, Munawar Hayat).
+- [DP190102479](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102479) "Integrating biologically-inspired auditory models into deep learning" University of New South Wales (Eliathamby Ambikairajah, Julien Epps, Vidhyasaharan Sethu).
+- [FT190100525](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FT190100525) "
+Adapting Deep Learning for Real-world Medical Image Datasets" University of Adelaide (Gustavo Carneiro).
+- [FT190100197](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FT190100197) "
+Deep Weak Learning for Morphology Analysis of Micro and Nanoscale Images" University of New South Wales (Yang Song).
+- [DE190100626](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE190100626) "Towards data-efficient future action prediction in the wild" Monash University (Xiaojun Chang).
+- [DP190102353](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102353) "Deep attribute-aware hashing for cross retrieval" University of Queensland (Zi Huang).
 
 ### 2018
 
@@ -118,6 +138,7 @@ The most common [Field of Research](https://www.arc.gov.au/grants/grant-applicat
 Protein structure prediction by deep long-range learning" Griffith (Yaoqi Zhou, Kuldip Paliwal).
 - [DE180100203](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203) "Deep space-time models for modelling complex environmental phenomena" Wollongong (Andrew Zammit Mangion)
 - "Generative Adversarial Networks for Behaviour Discovery (DST, 2018-2019)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung. (Monash)
+- [FL180100060](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FL180100060) "Deep learning: the first billion years with next generation Telescopes" Swinburne Univeristy of Technology (Karl Glazebrook).
 
 ### 2017
 
@@ -125,16 +146,23 @@ Protein structure prediction by deep long-range learning" Griffith (Yaoqi Zhou, 
 - [DE170101259](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE170101259) "Zero-shot and few-shot learning with deep knowledge transfer" University of Adelaide (Lingqiao Liu).
 - [FL170100117](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FL170100117) "On snapping up semantics of dynamic pixels from moving cameras" University of Sydney (Dacheng Tao).
 - "Deep Learning for Cybersecurity (DST/Data61, 2017-2021)" [link](https://www.monash.edu/it/our-research/strengths/data- science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung (Monash)
+- [DP170104600](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP170104600) "
+Hierarchical information processing in the primate visual cortex" Monash Univeristy (Marcello Rosa, Hsin-Hao Yu, Mark McDonnell, Adam Morris).
+- [DE170101259](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE170101259) "
+Zero-shot and few-shot learning with deep knowledge transfer" University of Adelaide (Lingqiao Liu).
 
 ### 2016
 
 - [LP160101162](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP160101162) "
 A data science framework for modelling disease patterns from medical images" Sydney (Dagan Feng, Jinman Kim).
-- "Learning Deep Semantics for Automatic Translation between Human Languages (ARC DP, 2016 - 2019)" [link](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) CIs are Prof Trevor Cohn (UoM) and Prof. Reza Haffari (Monash).
+- [DP160102686](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) "Learning Deep Semantics for Automatic Translation between Human Languages" University of Melbourne (Trevor Cohn, Gholamreza Haffari).
+- [LE160100090](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LE160100090) "Computational infrastructure for developing deep machine learning models" University of Adelaide (Ian Reid, Svetha Venkatesh, Peter Corke, Dr Mohammed Bennamoun, Stephen Gould, Anton van den Hengel, Chunhua Shen, Anthony Dick, Gustavo Carneiro, Dinh Phung, Niko Suenderhauf, Ajmal Mian).
+- 
 
 ### 2014
 
 - [DP140102794](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP140102794) "Automated analysis of multi-modal medical data using deep belief networks" University of Adelaide (Gustavo Carneiro, Andrew Bradley).
+- [DE140100180](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE140100180) "Advancing Dense 3D Reconstruction of Non-rigid Scenes by Using a Moving Camera" Australian National University (Yuchao Dai).
 
 ## Other
 

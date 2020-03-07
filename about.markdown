@@ -74,7 +74,7 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 
 ## Grants
 
-The following are all grants containing the term "deep learning" from 2018, found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra), **FT** are [Future Fellowships](https://www.arc.gov.au/grants/discovery-program/future-fellowships) and **FL** are [Laureate Fellowships](https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
+The following are all grants containing the terms "deep learning" found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants). If you notice that we've missed one, please [get in touch](mailto:d.murfet@unimelb.edu.au). **DP** means [Discovery Project](https://www.arc.gov.au/grants/discovery-program/discovery-projects), **LP** means [Linkage Project](https://www.arc.gov.au/grants/linkage-program/linkage-projects), **DE** are [DECRAS](https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra), **FT** are [Future Fellowships](https://www.arc.gov.au/grants/discovery-program/future-fellowships) and **FL** are [Laureate Fellowships](https://www.arc.gov.au/grants/discovery-program/australian-laureate-fellowships). Listed are CIs only. Grants are listed in reverse chronological order (newest first).
 
 The most common [Field of Research](https://www.arc.gov.au/grants/grant-application/classification-codes-rfcd-seo-and-anzsic-codes) (FoR) codes for research in deep learning:
 
@@ -157,7 +157,6 @@ Zero-shot and few-shot learning with deep knowledge transfer" University of Adel
 A data science framework for modelling disease patterns from medical images" Sydney (Dagan Feng, Jinman Kim).
 - [DP160102686](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) "Learning Deep Semantics for Automatic Translation between Human Languages" University of Melbourne (Trevor Cohn, Gholamreza Haffari).
 - [LE160100090](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LE160100090) "Computational infrastructure for developing deep machine learning models" University of Adelaide (Ian Reid, Svetha Venkatesh, Peter Corke, Dr Mohammed Bennamoun, Stephen Gould, Anton van den Hengel, Chunhua Shen, Anthony Dick, Gustavo Carneiro, Dinh Phung, Niko Suenderhauf, Ajmal Mian).
-- 
 
 ### 2014
 

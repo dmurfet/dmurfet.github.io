@@ -34,13 +34,13 @@ The other researchers in the lab, for whom deep learning is a minor research are
 
 Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the lab seminar. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
 
-* **Generative Adversarial networks**: (led by Mingming Gong) *details coming*
+* **Generative Adversarial networks**: (led by [Mingming Gong](https://mingming-gong.github.io/)) *details coming*
 
 * **Fairness in deep learning:** (led by Susan Wei) improved techniques for imposing invariance on deep learning algorithms.
 
-* **Singular learning theory:** (led by Susan Wei, Daniel Murfet) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
+* **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
-* **Reasoning in deep reinforcement learning:** (led by Daniel Murfet) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
+* **Reasoning in deep reinforcement learning:** (led by [Daniel Murfet](http://therisingsea.org/)) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
 
 * **Program synthesis in linear logic**: (led by Daniel Murfet) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) with James Clift we are using differential linear logic to lay the foundations for a theory of gradient-based program synthesis ([survey](https://gist.github.com/dmurfet/688af9d4413cbb9a13ca5d50b28ddcbc)), also in the context of singular learning theory. This project involves logic as well as implementation in Tensorflow or PyTorch. These topics are discussed in [a recent talk](https://youtu.be/IW4LjjAWrO4).
 

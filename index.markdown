@@ -46,6 +46,8 @@ Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Mu
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 
+To apply [send an email](mailto:d.murfet@unimelb.edu.au) and we'll meet to discuss your interests and background in person (note the official process is no different to a normal Masters or PhD application, in particular we do not currently have any extraordinary scholarships to offer).
+
 ## Events
 
 The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [lab mailing list](https://tinyletter.com/ilukalab).

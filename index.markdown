@@ -61,6 +61,8 @@ In semester two of 2020 we will be running deep learning bootcamps, and possibly
 
 Proposition: deep learning will lead to a new industrial revolution. This is a prediction, not a fact. Governments (US, China) and large corporations (Google, Facebook, Amazon, Microsoft, Baidu, Alibaba, Tencent, ...) are making billion dollar bets that this proposition is true, but it is certainly possible that these people are wrong (note that venture capitalists specialise in small probability large return bets). But you can form your own opinion, as we have. Below are some resources that may help:
 
+*Do note that deep learning and artificial intelligence are not the same thing, although they are often conflated in these kinds of reports.*
+
 ### Australia specific
 
 * [Australia AI roadmap](https://data61.csiro.au/en/Our-Research/Our-Work/AI-Roadmap?featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap&featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap): solving problems, growing the economy and improving our quality of life. Prepared by CSIRO's Data61 for the Australian Government, this report is intended to help guide future investment in AI and machine learning (November 2019). Explains applications of deep learning to *natural resources and environment, health aging and disability and cities towns and infrastructure*.

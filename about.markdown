@@ -14,7 +14,7 @@ The Australian leaders in the field include:
 
 - [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html), Professor University of Melbourne: deep learning for NLP, many papers in ACL.
 - [Dacheng Tao](https://sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), Professor University of Sydney, computer vision, AAAI, CVPR, ECCV.
-- [Ian Reid](https://cs.adelaide.edu.au/~ianr/), Professor University of Adelaide, computer vision and robotics, (Google Scholar crashed, TODO).
+- [Ian Reid](https://cs.adelaide.edu.au/~ianr/), Professor University of Adelaide, computer vision and robotics, ICRA, WACV, ICCV.
 - [Chunhua Shen](https://researchers.adelaide.edu.au/profile/chunhua.shen), Professor University of Adelaide, computer vision, AAAI, ICML, CVPR.
 - [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), Associate Professor ANU, computer vision, WACV, ICCV, CVPR, NeurIPS.
 - [Yi Yang](http://reler.net/), Professor University of Technology Sydney, IJCAI, CVPR, AAAI, ICLR, ECCV.

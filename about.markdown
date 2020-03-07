@@ -4,9 +4,9 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-# Deep Learning in Australia
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). 
 
-## People
+## Who
 
 Below is a list of researchers in Australia for whom deep learning is **their main research area**. To make this point even clearer: I am not including every single person who has published a paper using deep learning. That list would be much larger. Still, there are no doubt omissions, for which I apologise in advance. The Australian leaders in the field include:
 

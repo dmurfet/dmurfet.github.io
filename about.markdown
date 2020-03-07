@@ -62,11 +62,9 @@ NeurIPS and ICML are the two most prestigious conferences in machine learning (i
 
 Because vision and language are the two most important aspects of artificial intelligence, they have their own top conferences which focus on solving real problems in vision and language. For example, CVPR, ICCV, and ECCV are the top three conferences in computer vision, and ACL, EMNLP, and NAACL are the top three conferences in natural language processing. Because deep learning is currently the leading technology in vision and language, you will see lots of deep learning papers in these conferences.
 
-AAAI and IJCAI and the top two conferences in the general artificial intelligence area. Especially, many excellent papers in traditional AI areas, like automated theorem proving, game playing, and planning, are published in AAAI and IJCAI.
+AAAI and IJCAI and the top two conferences in the general artificial intelligence area. Especially, many excellent papers in traditional AI areas, like automated theorem proving, game playing, and planning, are published in AAAI and IJCAI. Data mining (science) focuses on applying ML methods to solve real-world data analysis problems. The best conference is KDD. ICDM and SDM are also good ones.
 
-Data mining (science) focuses on applying ML methods to solve real-world data analysis problems. The best conference is KDD. ICDM and SDM are also good ones.
-
-Here I briefly summarize the top conferences in each area:
+A brief summary of the top conferences in each area:
 
   * **ML**: NeurIPS, ICML, ICLR, UAI, AISTATS
   * **Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI

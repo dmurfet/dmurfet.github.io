@@ -4,9 +4,9 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a (successful) subset of the broad field of machine learning and artificial intelligence; this document does not attempt to give an overview of the broader field.
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **researchers**, **institutes and centres**, **grants**. There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a (successful) subset of the broad field of machine learning and artificial intelligence; this document does not attempt to give an overview of the broader field.
 
-## Who
+## Researchers
 
 Below is a (no doubt incomplete) list of researchers in Australia for whom deep learning is **currently their main research area**. This includes e.g. researchers in computer vision whose main tool is deep learning. To make this point even clearer: the list does not include every single person who has published a paper using deep learning (in particular it does not include Daniel Murfet). That list would be much larger. 
 
@@ -40,7 +40,23 @@ The rest of the field is below, with more senior people first but otherwise in n
 
 The best venues for publication in deep learning are *conferences*. See below for a list.
 
-## Institutes and Centres
+### Conferences in deep learning
+
+NeurIPS and ICML are the two most prestigious conferences in machine learning (including deep learning). ICLR, UAI, and AISTATS are smaller-scale conferences that are as prestigious as NeurIPS and ICML, but focusing on specific areas. ICLR focuses on deep learning, UAI focuses on graphical models and causal inference, and AISTATS focuses on the intersection between Statistics and ML. Most of the machine learning theories and new methodologies will appear in these conferences.
+
+Because vision and language are the two most important aspects of artificial intelligence, they have their own top conferences which focus on solving real problems in vision and language. For example, CVPR, ICCV, and ECCV are the top three conferences in computer vision, and ACL, EMNLP, and NAACL are the top three conferences in natural language processing. Because deep learning is currently the leading technology in vision and language, you will see lots of deep learning papers in these conferences.
+
+AAAI and IJCAI and the top two conferences in the general artificial intelligence area. Especially, many excellent papers in traditional AI areas, like automated theorem proving, game playing, and planning, are published in AAAI and IJCAI. Data mining (science) focuses on applying ML methods to solve real-world data analysis problems. The best conference is KDD. ICDM and SDM are also good ones.
+
+A brief summary of the top conferences in each area:
+
+  * **ML**: NeurIPS, ICML, ICLR, UAI, AISTATS
+  * **Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
+  * **NLP**: ACL, EMNLP, NACCL; AAAI, IJCAI
+  * **AI**: AAAI, IJCAI
+  * **Data science**: KDD; ICDM, SDM, AAAI, IJCAI
+  
+## Institutes and labs
 
 The technology-oriented institutes, centres and labs:
 
@@ -56,23 +72,7 @@ Institutes focused on policy and ethics (and on AI broadly, not deep learning):
 - [3AI](https://3ainstitute.cecs.anu.edu.au). Focused on policy implications of AI.
 - [Gradient Institute](https://gradientinstitute.org/). Focused on ethical AI.
 
-## Conferences in deep learning
-
-NeurIPS and ICML are the two most prestigious conferences in machine learning (including deep learning). ICLR, UAI, and AISTATS are smaller-scale conferences that are as prestigious as NeurIPS and ICML, but focusing on specific areas. ICLR focuses on deep learning, UAI focuses on graphical models and causal inference, and AISTATS focuses on the intersection between Statistics and ML. Most of the machine learning theories and new methodologies will appear in these conferences.
-
-Because vision and language are the two most important aspects of artificial intelligence, they have their own top conferences which focus on solving real problems in vision and language. For example, CVPR, ICCV, and ECCV are the top three conferences in computer vision, and ACL, EMNLP, and NAACL are the top three conferences in natural language processing. Because deep learning is currently the leading technology in vision and language, you will see lots of deep learning papers in these conferences.
-
-AAAI and IJCAI and the top two conferences in the general artificial intelligence area. Especially, many excellent papers in traditional AI areas, like automated theorem proving, game playing, and planning, are published in AAAI and IJCAI. Data mining (science) focuses on applying ML methods to solve real-world data analysis problems. The best conference is KDD. ICDM and SDM are also good ones.
-
-A brief summary of the top conferences in each area:
-
-  * **ML**: NeurIPS, ICML, ICLR, UAI, AISTATS
-  * **Vision**: CVPR, ICCV, ECCV; AAAI, IJCAI
-  * **NLP**: ACL, EMNLP, NACCL; AAAI, IJCAI
-  * **AI**: AAAI, IJCAI
-  * **Data science**: KDD; ICDM, SDM, AAAI, IJCAI
-
-## ARC projects
+## Grants
 
 Found using [ARC grant search](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grants) using "deep learning". DP means Discovery Project, LP means Linkage Project, DE are DECRAS. Listed are CIs only.
 

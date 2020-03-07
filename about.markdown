@@ -28,7 +28,6 @@ The rest of the field is below, with more senior people first but otherwise in n
 - [Dinh Phung](https://research.monash.edu/en/persons/dinh-phung), Professor Monash University, AAAI, PMLR, ICLR.
 - [Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), Professor University of Melbourne, deep learning for NLP, particularly for biomedical text, BMC Bioinformatics, ACL.
 - [Reza Haffari](https://research.monash.edu/en/persons/reza-haffari), Associate Professor Monash, natural language processing, many papers in ACL.
-
 - [Mingming Gong](https://mingming-gong.github.io/), Lecturer University of Melbourne, NeurIPS, ICML, CVPR, ICCV.
 - [Tongliang Liu](https://sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html), Lecturer University of Sydney, CVPR, ECCV, AAAI, ICML, IJCAI.
 - [Qi Wu](https://researchers.adelaide.edu.au/profile/qi.wu01#publications), Senior Lecturer University of Adelaide, visual question answering, CVPR, AAAI, IJCAI
@@ -38,8 +37,6 @@ The rest of the field is below, with more senior people first but otherwise in n
 - [Liang Zheng](https://cecs.anu.edu.au/people/liang-zheng), Lecturer ANU computer vision, ECCV, CVPR, ICCV.
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
 - [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Monash, AAAI, IJCAI, Neural Computation.
-
-[Marcus Hutter](http://www.hutter1.net/) and [Hanna Kurniawati](https://cecs.anu.edu.au/people/hanna-kurniawati#acton-tabs-link--tabs-0-middle-2) at ANU are interested in reinforcement learning, but neither appear to have a research interest in deep learning.
 
 Unlike fields like pure mathematics, the best venues for publications in deep learning are often *conferences*. See below for a list.
 

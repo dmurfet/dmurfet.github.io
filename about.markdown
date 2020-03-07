@@ -102,10 +102,10 @@ https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245
 
 ### 2019
 
-- [DP190102181](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102181) "
-Quantification, optimisation, and application of deep uncertainty" Deakin (Saeid Nahavandi, Abbas Khosravi, Chee Peng Lim).
+- [DP190102181](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102181) "Quantification, optimisation, and application of deep uncertainty" Deakin (Saeid Nahavandi, Abbas Khosravi, Chee Peng Lim).
 - [DP190102443](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190102443) "Defense against adversarial attacks on deep learning in computer vision" University of Western Australia (Ajmal Mian).
 - [DP190103744](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP190103744) "X-ray imaging and magnetic resonance approach for enhanced oil recovery" UNSW (Crhsitoph Arns, Adrian Sheppard).
+- "Towards Data-Efficient Future Action Prediction in the Wild (ARC DECRA, 2019-2021)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/computer-vision-research-projects), Dr. Xiaojun Chang (Monash).
 
 ### 2018
 
@@ -118,26 +118,24 @@ Quantification, optimisation, and application of deep uncertainty" Deakin (Saeid
 - [DP180102060](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP180102060) "
 Protein structure prediction by deep long-range learning" Griffith (Yaoqi Zhou, Kuldip Paliwal).
 - [DE180100203](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203) "Deep space-time models for modelling complex environmental phenomena" Wollongong (Andrew Zammit Mangion)
+- "Generative Adversarial Networks for Behaviour Discovery (DST, 2018-2019)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung. (Monash)
 
 ### 2017
 
 - [LP170101255](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP170101255) "An automated system for the analysis of road safety and conditions" Central Queensland University (Brijesh Verma).
 - [DE170101259](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE170101259) "Zero-shot and few-shot learning with deep knowledge transfer" University of Adelaide (Lingqiao Liu).
 - [FL170100117](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FL170100117) "On snapping up semantics of dynamic pixels from moving cameras" University of Sydney (Dacheng Tao).
+- "Deep Learning for Cybersecurity (DST/Data61, 2017-2021)" [link](https://www.monash.edu/it/our-research/strengths/data- science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung (Monash)
 
 ### 2016
 
 - [LP160101162](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LP160101162) "
 A data science framework for modelling disease patterns from medical images" Sydney (Dagan Feng, Jinman Kim).
+- "Learning Deep Semantics for Automatic Translation between Human Languages (ARC DP, 2016 - 2019)" [link](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) CIs are Prof Trevor Cohn (UoM) and Prof. Reza Haffari (Monash).
 
 ### 2014
 
 - [DP140102794](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP140102794) "Automated analysis of multi-modal medical data using deep belief networks" University of Adelaide (Gustavo Carneiro, Andrew Bradley).
-
-- "Learning Deep Semantics for Automatic Translation between Human Languages (ARC DP, 2016 - 2019)" [link](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP160102686) CIs are Prof Trevor Cohn (UoM) and Prof. Reza Haffari (Monash).
-- "Deep Learning for Cybersecurity (DST/Data61, 2017-2021)" [link](https://www.monash.edu/it/our-research/strengths/data- science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung (Monash)
-- "Generative Adversarial Networks for Behaviour Discovery (DST, 2018-2019)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/deep-learning) Prof. Dinh Phung. (Monash)
-- "Towards Data-Efficient Future Action Prediction in the Wild (ARC DECRA, 2019-2021)" [link](https://www.monash.edu/it/our-research/strengths/data-science/machine-learning/research-projects/computer-vision-research-projects), Dr. Xiaojun Chang (Monash).
 
 ## Other
 

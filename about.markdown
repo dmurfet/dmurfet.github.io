@@ -4,11 +4,11 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). 
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). To be clear: this was written by Daniel Murfet, so you should blame me for omissions or mistakes (feel free to do it by [email](@mailto:d.murfet@unimelb.edu.au)).
 
 ## Who
 
-Below is a list of researchers in Australia for whom deep learning is **their main research area**. To make this point even clearer: I am not including every single person who has published a paper using deep learning. That list would be much larger. Still, there are no doubt omissions, for which I apologise in advance. The Australian leaders in the field include:
+Below is a list of researchers in Australia for whom deep learning is **current their main research area**. To make this point even clearer: I am not including every single person who has published a paper using deep learning (in particular I am not including . That list would be much larger. Still, there are no doubt omissions, for which I apologise in advance. The Australian leaders in the field include:
 
 - [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html), Professor University of Melbourne: deep learning for NLP, many papers in ACL.
 - [Dacheng Tao](https://sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html), Professor University of Sydney, computer vision, AAAI, CVPR, ECCV.

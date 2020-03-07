@@ -45,7 +45,7 @@ The best venues for publication in deep learning are *conferences*. See below fo
 The technology-oriented institutes, centres and labs:
 
 - [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) (AIML), University of Adelaide, directed by Anton van den Hengel.
-- [ARC Centre for Robotic Vision](https://www.roboticvision.org/), QUT, ANU, University of Adelaide and Monash.
+- [ARC Centre for Robotic Vision](https://www.roboticvision.org/), QUT, ANU, University of Adelaide and Monash, involves [Ian Reid](https://cs.adelaide.edu.au/~ianr/) and [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/).
 - [ARC Training Centre for Cognitive Computing for Medical Technologies](https://aimedtech.org.au/), University of Melbourne, directed by [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/publications.html).
 - [ReLER lab](http://reler.net/), University of Technology Sydney, directed by Yi Yang.
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.

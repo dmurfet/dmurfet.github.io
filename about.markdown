@@ -4,7 +4,7 @@ title: DLinAus
 permalink: /dlinoz/
 ---
 
-This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it.
+This document attempts to be an up-to-date overview of the deep learning landscape in Australia. There are three main sections: **who** (researchers), **where** (institutes and centres), **what** (grants). There is also a brief guide to the publication venues (conferences) in this area. There are certainly omissions and mistakes, if you notice one please [get in touch](mailto:d.murfet@unimelb.edu.au) and we'll quickly fix it. Deep learning is a subset of artificial intelligence, and there is a difference between the two: this document does not attempt to give an overview of AI in Australia.
 
 ## Who
 
@@ -38,11 +38,11 @@ The rest of the field is below, with more senior people first but otherwise in n
 - [Linchao Zhu](http://ffmpbgrnn.github.io/), Lecturer University of Technology Sydney, NeurIPS, ICCV, CVPR, AAAI, IJCAI.
 - [Xiaojun Chang](https://research.monash.edu/en/persons/xiaojun-chang), Monash, AAAI, IJCAI, Neural Computation.
 
-Unlike fields like pure mathematics, the best venues for publications in deep learning are often *conferences*. See below for a list.
+The best venues for publication in deep learning are *conferences*. See below for a list.
 
 ## Institutes and Centres
 
-The technology oriented institutes, centres and labs:
+The technology-oriented institutes, centres and labs:
 
 - [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/) (AIML), University of Adelaide, directed by Anton van den Hengel.
 - [ARC Centre for Robotic Vision](https://www.roboticvision.org/) directed by [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), deputy director Ian Reid.
@@ -50,7 +50,7 @@ The technology oriented institutes, centres and labs:
 - [ReLER lab](http://reler.net/), University of Technology Sydney, directed by Yi Yang.
 - [ANU computational media lab](http://cm.cecs.anu.edu.au/), senior person appears to be Lexing Xie.
 
-Policy and society focused:
+Policy and society focused institutes:
 
 - [Humanising Machine Intelligence](https://hmi.anu.edu.au/) (HMI)
 - [3AI](https://3ainstitute.cecs.anu.edu.au). Focused on policy implications of AI.

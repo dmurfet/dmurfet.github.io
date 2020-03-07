@@ -97,7 +97,7 @@ The most common [Field of Research](https://www.arc.gov.au/grants/grant-applicat
 - [DP200101328](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200101328) "Adversarial Learning of Hybrid Representation" University of Technology Sydney (Ivor Tsang, Yulei Sui).
 - [DP200103797](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103797) "Deep Learning that Scales" University of Adelaide (Chunhua Shen).
 - [DP200103015](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP200103015) "Deep learning based time series modeling and financial forecasting" University of Sydney (Minh-Ngoc Tran, Junbin Gao, Richard Gerlach).
-- [DE200100245](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245) "Bayesian nonparametric learning for practical sequential decision making" (Junyu Xuan).
+- [DE200100245](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200100245) "Bayesian nonparametric learning for practical sequential decision making" University of Technology Sydney (Junyu Xuan).
 
 ### 2019
 

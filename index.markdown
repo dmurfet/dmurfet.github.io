@@ -59,11 +59,9 @@ In semester two of 2020 we will be running deep learning bootcamps, and possibly
 
 ## Why is deep learning important?
 
-Proposition: deep learning will lead to a new industrial revolution. This is a prediction, not a fact. There are currently many real-world applications of deep learning in computer vision and natural language, and perhaps [soon in robotics](https://covariant.ai/), but the impacts must increase by several orders of magnitude to be called an industrial revolution (currently deep learning << steam, steel, electricity, chemical manufacturing, etc). This is uncertain, but as anybody familiar with the [history of the industrial revolutions](https://industrialrevolutionspod.com/) knows, once it is obvious to everybody that things are working **you do not have time to catch up**.
+Proposition: deep learning will lead to a new industrial revolution. This is a prediction, not a fact. There are currently many real-world applications of deep learning in computer vision and natural language, and perhaps [soon in robotics](https://covariant.ai/), but the impacts must increase by several orders of magnitude to be called an industrial revolution (currently deep learning << steam, steel, electricity, chemical manufacturing, etc). This is uncertain, but as anybody familiar with the [history of the industrial revolutions](https://industrialrevolutionspod.com/) knows, once it is obvious to everybody that things are working **you do not have time to catch up**. Rich governments (US, China) and corporations (Google, Facebook, Amazon, Microsoft, Baidu, Alibaba, Tencent, ...) are making billion dollar bets that this proposition is true. 
 
-Governments (US, China) and large corporations (Google, Facebook, Amazon, Microsoft, Baidu, Alibaba, Tencent, ...) are making billion dollar bets that this proposition is true. Maybe Australia should be making some of our own bets. We have obviously formed our own opinion, but you should form your own. Below are some resources that may help:
-
-*Do note that deep learning and artificial intelligence are not the same thing, although they are often conflated in these kinds of reports.*
+Anyway, form your own opinion and beware the hype. *Do note that deep learning and artificial intelligence are not the same thing, although they are often conflated in these kinds of reports.*
 
 ### Australia specific
 

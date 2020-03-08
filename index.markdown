@@ -31,7 +31,7 @@ The other researchers in the lab, for whom deep learning is a minor research are
 
 * **[Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)**: mathematical physics, statistical mechanics, singular learning theory.
 
-*Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our favourite piece of music is his [Softbank Sinfonia](https://www.lucascantormusic.com/softbanksinfonia).*
+Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our favourite piece of music is his [Softbank Sinfonia](https://www.lucascantormusic.com/softbanksinfonia).
 
 ## Research projects
 

@@ -56,32 +56,3 @@ To apply [send an email](mailto:d.murfet@unimelb.edu.au) and we'll meet to discu
 We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [lab mailing list](https://tinyletter.com/ilukalab). 
 
 In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.
-
-## Why is deep learning important?
-
-It is unclear what the long-term impacts of this technology will be. Large changes in productivity have occurred in history, and it is not unreasonable to compare the potential of deep learning to that of other general purpose technologies (steam, electricity, chemical manufacturing, etc) responsible for those changes. However, we're not there yet. While there are currently many real-world applications of deep learning in computer vision and natural language, and perhaps [soon in robotics](https://covariant.ai/), these impacts would have to increase by several orders of magnitude to be reasonably compared with the general purpose technologies which drove previous industrial revolutions. However, as anybody familiar with the [history of the industrial revolutions](https://industrialrevolutionspod.com/) knows, once it is obvious to everybody that things are working **you may not have time to catch up**. 
-
-It is therefore worth noting that rich governments (US, China) and corporations (Google, Facebook, Amazon, Microsoft, Baidu, Alibaba, Tencent, ...) are making billion dollar bets that these technologies will be part of a [fourth industrial revolution](https://www.brookings.edu/blog/brown-center-chalkboard/2017/04/11/surfing-the-4th-industrial-revolution-artificial-intelligence-and-the-liberal-arts/) taking off in the next few decades. Below is a list of references that can help you understand the current landscape of these investments.
-
-Do note that *deep learning and artificial intelligence are not the same thing* although they are often conflated in these kinds of reports, with varying levels of harm.
-
-* (Australia) [Australia AI roadmap](https://data61.csiro.au/en/Our-Research/Our-Work/AI-Roadmap?featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap&featured=6EDF11D88EED4B6794F2FBDFD65766B2&utm_source=AI_Roadmap_Twitter_AI_Domains&utm_medium=Twitter_post&utm_campaign=AI_Roadmap_Twitter_AI_Domains&utm_term=Twitter_AI_Domains_post&utm_content=AI_Roadmap): solving problems, growing the economy and improving our quality of life. Prepared by CSIRO's Data61 for the Australian Government, this report is intended to help guide future investment in AI and machine learning (November 2019). Explains applications of artificial intelligence to *natural resources and environment, health aging and disability and cities towns and infrastructure*.
-
-* (Australia) [ACOLA on the effective and ethical development of AI](https://acola.org/hs4-artificial-intelligence-australia/).
-
-* (France, Europe) [For a Meaningful Artificial Intelligence](https://ec.europa.eu/knowledge4policy/publication/meaningful-artificial-intelligence-towards-french-european-strategy_en): Towards a French and European Strategy. Written by **Cedric Villani** 2010 Fields medallist.
-
-* (China) [China's New Generation Artificial Intelligence Development Plan](https://www.newamerica.org/cybersecurity-initiative/digichina/blog/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/) (full translation by New America).
-
-* (United States) [CSET: The Question of Comparative Advantage in Artificial Intelligence](https://cset.georgetown.edu/wp-content/uploads/CSET-The-Question-of-Comparative-Advantage-in-Artificial-Intelligence-1.pdf): Enduring Strengths and Emerging
-Challenges for the United States. Extract: *who is leading in artificial intelligence (AI) and machine learning (ML)? How should
-leadership in AI be evaluated or measured? Which aspects of comparative
-advantage in AI possess the greatest strategic importance? These questions are
-critical to address as nations around the world embrace the potential of AI through a
-range of policy initiatives.*
-
-* (United States) [Artificial Intelligence Index Report 2019](https://hai.stanford.edu/ai-index/2019) from Stanford's Human-Centered Artificial Intelligence. Tracks a range of useful metrics for understanding the field of AI.
-
-* (UK) [How robots change the world](http://resources.oxfordeconomics.com/how-robots-change-the-world): What automation really means for jobs and productivity. *Trends suggest the global stock of robots will multiply even faster in the next 20 years, reaching as many as 20 million by 2030, with 14 million in China alone. The implications are immense, and the emerging challenges for policy-makers are equally daunting in scale.*.
-
-* (United States) [AI Nationalism](https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism) by Ian Hogarth (from June 2018 but still very much worth reading).

@@ -11,7 +11,7 @@ We work on deep learning, from fundamental mathematical theory through to real-w
 
 There is a new industrial revolution on the way, and it is imperative that Australia increases the growth-rate of research and applied expertise in deep learning. To this end we aim to publish research in the top conferences (e.g. [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/)) and train Masters and PhD students in this quickly emerging field. We hope that some of these students will found companies, providing employment for other mathematicians and contributing to Australian productivity growth through new forms of perceptual and cognitive automation.
 
-We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne. We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep learning. We are looking for highly-motivated students to join our group, at either Masters or PhD level: [apply here](mailto:d.murfet@unimelb.edu.au). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
+We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne. We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep learning. We are looking for highly-motivated students to join our group, at either Masters or PhD level (see the Projects section below). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
 
 <!--*Iluka is an Aboriginal Australian word meaning: [by the sea](https://www.gnb.nsw.gov.au/place_naming/placename_search/extract?id=MackXtrXan).*-->
 
@@ -49,7 +49,7 @@ Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Mu
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 
-To apply [send an email](mailto:d.murfet@unimelb.edu.au) with your CV and transcript (note the official process is no different to a normal Masters or PhD application, in particular we do not currently have any extraordinary scholarships to offer).
+To apply send an email to one of the primary supervisors [Gong](mingming.gong@unimelb.edu.au), [Wei](susan.wei@unimelb.edu.au) or [Murfet](mailto:d.murfet@unimelb.edu.au) with your CV and transcript (note the official process is no different to a normal Masters or PhD application, in particular we do not currently have any extraordinary scholarships to offer).
 
 ## Events
 

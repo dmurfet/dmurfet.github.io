@@ -13,6 +13,8 @@ There is a new industrial revolution on the way, and it is imperative that Austr
 
 We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne. We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep learning. We are looking for highly-motivated students to join our group, at either Masters or PhD level (see the Projects section below). You can be interested in anything from the engineering aspect of deep learning, all the way through to the algebraic geometry and statistics of neural networks.
 
+Curious? Feel free to drop by our **public office hours** on [Zoom](https://unimelb.zoom.us/j/537135126) every Tuesday 9-10am Melbourne time and chat about deep learning.
+
 <!--*Iluka is an Aboriginal Australian word meaning: [by the sea](https://www.gnb.nsw.gov.au/place_naming/placename_search/extract?id=MackXtrXan).*-->
 
 ## People

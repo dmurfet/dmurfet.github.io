@@ -21,8 +21,10 @@ You will need the following
 
   * Python >= 3.7 (on Mac or Windows you might like to install this via [Anaconda](https://www.anaconda.com/distribution/)).
   * Deep learning libraries [PyTorch](https://pytorch.org/get-started/locally/) or [TensorFlow 2](https://www.tensorflow.org/install) on top of Python, what we use depends on the project.
-  * If you have a GPU you want to install drivers in the way suggested by the above libraries, so that you can use the GPU from within the libraries. If you only have a GPU (e.g. you are on a laptop) you can run the same code, but slowly.
+  * If you have a GPU you want to install drivers and CUDA (a parallel computing platform and programming model developed by NVIDIA for general computing on GPUs) in the way suggested on the webpages for PyTorch and TensorFlow, so that you can use the GPU from within the libraries. If you only have a GPU (e.g. you are on a laptop) you can run the same code, but slowly.
 
 You will run your models either through Jupyter notebooks hosted locally (Anaconda can help with that) or through Python files that you host and run through some other IDE (Susan likes [PyCharm](https://www.jetbrains.com/pycharm/)).
+
+  * *Example*: DM has two machines in his home office, an iMac and a Linux machine with a GPU with TensorFlow, PyTorch etc installed. They are on an Ethernet network, and the Linux machine is setup to serve via Apache a Jupyter notebook over HTTP to the iMac machine. DM just opens a Jupyter notebook via a browser, and is connected via the Terminal and SSH to the Linux machine. GPUs are expensive, but if you are serious about deep learning and comfortable building your own machine, you should consider building a Linux machine to run experiments.
 
 Installing all this can be a painful process, when you get stuck **Google your error** and try again. Finally, find some basic PyTorch or TensorFlow tutorial online (e.g. training a small CNN on MNIST) and run it on your local machine to make sure everything works.

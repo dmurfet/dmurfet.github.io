@@ -24,3 +24,5 @@ You will need the following
   * If you have a GPU you want to install drivers in the way suggested by the above libraries, so that you can use the GPU from within the libraries. If you only have a GPU (e.g. you are on a laptop) you can run the same code, but slowly.
 
 You will run your models either through Jupyter notebooks hosted locally (Anaconda can help with that) or through Python files that you host and run through some other IDE (Susan likes [PyCharm](https://www.jetbrains.com/pycharm/)).
+
+Installing all this can be a painful process, when you get stuck **Google your error** and try again. Finally, find some basic PyTorch or TensorFlow tutorial online (e.g. training a small CNN on MNIST) and run it on your local machine to make sure everything works.

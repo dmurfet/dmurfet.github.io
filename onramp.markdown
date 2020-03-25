@@ -15,7 +15,7 @@ For the projects related to singular learning theory:
   
 # Installing software
 
-You can do quite a lot with hosted online Jupyter notebooks such as [Google Colab](https://colab.research.google.com/), where they give you access to a GPU. This might be a good idea to get started with some simple tutorials, but for serious development you will want to get something setup on your own machine (preferably with a GPU, but this is not strictly necessary). Operating systems in order of preference for deep learning development are Linux > Mac > Windows. In principle they all work, in practice you might have a lot of trouble with maintaining your packages and distributions on Windows. 
+You can do quite a lot with free hosted Jupyter notebooks such as [Google Colab](https://colab.research.google.com/), where they give you access to a GPU. This might be a good idea to get started with some simple tutorials, but for serious development you will want to get something setup on your own machine (preferably with a GPU, but this is not strictly necessary). Operating systems in order of preference for deep learning development are Linux > Mac > Windows. In principle they all work, in practice you might have a lot of trouble with maintaining your packages and distributions on Windows. For serious experiments we usually need to run the experiments on cloud machines, either [AWS](https://aws.amazon.com/) or [GCP](https://cloud.google.com/) (expensive!) or on local clusters such as Nectar or Spartan (perhaps students cannot request these resources on their own, usually we will have access and assign logins to you if necessary).
 
 You will need the following
 

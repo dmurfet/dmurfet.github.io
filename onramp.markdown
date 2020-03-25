@@ -8,6 +8,10 @@ permalink: /onramp/
 
   * The [deep learning book](https://www.deeplearningbook.org/). You probably want to buy a copy. This covers basic probability and information theory, machine learning as well as many common deep learning models. You can access the book on a page by page basis online, which is useful as a reference. For the singular learning theory work, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). Before you get started, you should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.
   
+  * For more advanced topics in information theory and machine learning, see David MacKay's [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf).
+  
+  * For reinforcement learning see [Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html).
+  
 For the projects related to singular learning theory:
 
   * S. Watanabe "[Almost all learning machines are singular](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/foci2007.pdf)", Invited Paper in FOCI2007.

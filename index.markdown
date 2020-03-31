@@ -19,7 +19,7 @@ Curious? Feel free to drop by for a chat in our **public office hours** on [Zoom
 
 ## People
 
-The lab involves five faculty from across the School of Mathematics and Statistics. The primary researchers are those for whom deep learning is a major component of their overall research agenda:
+The group involves five faculty from across the School of Mathematics and Statistics. The primary researchers are those for whom deep learning is a major component of their overall research agenda:
 
 * **[Mingming Gong](https://mingming-gong.github.io/)**: causal discovery, transfer learning, deep learning. Some relevant papers: [NeurIPS 2019](https://arxiv.org/abs/1907.02690), [NeurIPS 2019](https://papers.nips.cc/paper/8912-likelihood-free-overcomplete-ica-and-applications-in-causal-discovery.pdf), [NeurIPS 2019](https://papers.nips.cc/paper/9506-specific-and-shared-causal-relation-modeling-and-mechanism-based-clustering.pdf), [ICML 2019](http://proceedings.mlr.press/v97/huang19g/huang19g.pdf), [CVPR 2019](https://arxiv.org/abs/1809.05852), [CVPR 2019](https://arxiv.org/pdf/1904.01870.pdf).
 
@@ -27,7 +27,7 @@ The lab involves five faculty from across the School of Mathematics and Statisti
 
 * **[Daniel Murfet](http://therisingsea.org/)**: algebraic geometry, logic, deep reinforcement learning, singular learning theory. Deep reinforcement learning paper: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr) and papers on linear logic: [1](https://arxiv.org/abs/1407.2650) [2](https://arxiv.org/abs/1805.10770) [3](https://arxiv.org/abs/1805.11813).
 
-The other researchers in the lab, for whom deep learning is a minor research area:
+The other researchers in the group, for whom deep learning is a minor research area:
 
 * **[Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/)**: analysis, singular learning theory.
 
@@ -37,7 +37,7 @@ Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our 
 
 ## Research projects
 
-Students affiliated with the lab have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the lab seminar. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
+Students affiliated with the group have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the group seminar. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
@@ -55,6 +55,6 @@ To apply send an email to one of the primary supervisors [Gong](mailto:mingming.
 
 ## Events
 
-We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. Weekly office hours are on [Zoom](https://unimelb.zoom.us/j/537135126) every Tuesday 9-10am Melbourne time (all welcome, including undergradutes or non-students). For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the lab is to subscribe to the [group mailing list](https://tinyletter.com/mdlg). 
+We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. Weekly office hours are on [Zoom](https://unimelb.zoom.us/j/537135126) every Tuesday 9-10am Melbourne time (all welcome, including undergradutes or non-students). For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the group is to subscribe to the [group mailing list](https://tinyletter.com/mdlg). 
 
 In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.

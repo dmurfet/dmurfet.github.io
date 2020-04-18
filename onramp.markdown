@@ -14,7 +14,7 @@ How do you get started? Here is our onramp for new students:
   
  More background reading:
 
-  * For more advanced topics in information theory and machine learning, see David MacKay's [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf).
+  * For more advanced topics in information theory and machine learning, see David MacKay's book "[Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)".
   
   * For reinforcement learning see [Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html).
   

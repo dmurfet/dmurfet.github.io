@@ -46,7 +46,7 @@ In general you should use PC Part Picker to verify that your choices of motherbo
 
 *Dan*: Here is my machine, which cost AUD $7000 in May 2019. To give you some idea of how I allocated that between the different components I'll list the prices as of May 2019, but these have changed and you may not be able to buy these precise parts any more. You do not need to spend that much, and you probably want to spend more on your GPU than your CPU (I need lots of threads for RL tasks).
 
-  * **CPU**: AMD Ryzen Threadripper 2990WX 32-core 64-thread 3.0 Ghz (AUD $2500).
+  * **CPU**: AMD Ryzen Threadripper 2990WX 32-core 64-thread 3.0 Ghz (AUD $2500). This is a pretty extravagant part, you probably don't need it.
   * **GPU**: you probably want an NVIDIA card, with as much memory as you can afford. [NVIDIA GeForce RTX 2080](https://www.nvidia.com/en-au/geforce/graphics-cards/rtx-2080/) 8Gb (AUD $1267) (mine was an MSI "SEA HAWK". You do need to pay attention to the fan arrangement and how that will work with your case. Redistributors package the NVIDIA silicon into their own boards, and the boards do vary, so you have to do your homework).
   * **HDD**: Samsung 970 Pro 512Gb PCIe NVMe SSD (AUD $289).
   * **Power supply**: Thermaltake Toughpower 1500W (AUD $414).

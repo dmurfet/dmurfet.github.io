@@ -41,7 +41,11 @@ Students affiliated with the group have a primary supervisor (one of Gong, Wei, 
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
-* **Generative Adversarial networks**: (led by [Mingming Gong](https://mingming-gong.github.io/)) study how the causal generative process of data can benefit learning in non-standard settings, such as transfer learning and weakly-supervised learning. Develop methods to infer causal models from various kinds of observational data, including incomplete time series, noisy data, and nonstationary/heterogeneous data. On the application side, there are numerous projects in computer vision, biomedical informatics, and economic data analysis.
+* **Causal Discovery**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop methods to infer causal graphs from various kinds of observational data, for example, incomplete time series, noisy data, nonstationary/heterogeneous data, etc.
+
+* **Causal Domain Adaptation**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal information to develop machine learning models that can adapt to distributions different from the training distribution.
+
+* **Deep Generative Models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution.
 
 * **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 

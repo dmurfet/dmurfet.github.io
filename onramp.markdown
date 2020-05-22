@@ -6,6 +6,8 @@ permalink: /onramp/
 
 How do you get started? Here is our onramp for new students:
 
+  * **Step 0**: Yann LeCun "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" is an excellent survey of the history of deep learning, and the need for theory.
+  
   * **Step 1**: read Michael Nielsen's excellent online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (in a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student).
   
   * **Step 2**: buy a copy of the [deep learning book](https://www.deeplearningbook.org/). For work in singular learning theory, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). You should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.

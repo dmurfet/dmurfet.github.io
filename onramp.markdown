@@ -6,7 +6,7 @@ permalink: /onramp/
 
 How do you get started? Here is our onramp for new students:
 
-  * **Step 0**: Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" is an excellent survey of the history of deep learning, and the need for theory.
+  * **Step 0**: Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" is an excellent survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment.
   
   * **Step 1**: read Michael Nielsen's excellent online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (in a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student).
   

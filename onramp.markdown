@@ -25,7 +25,7 @@ For the projects related to singular learning theory:
   * S. Watanabe "[Almost all learning machines are singular](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/foci2007.pdf)", Invited Paper in FOCI2007.
   
   * S. Watanabe "[A Widely Applicable Bayesian Information Criterion](http://www.jmlr.org/papers/volume14/watanabe13a/watanabe13a.pdf)" Journal of Machine Learning Research 14 (2013) 867-897.
-  
+
 # Installing software
 
 You can run some tutorials and basic experiments using free hosted Jupyter notebooks such as [Google Colab](https://colab.research.google.com/) however for research you will want to set up your own machine (see below). Operating systems in order of preference for deep learning development are Linux > Mac > Windows. You might have trouble on Windows. For experiments we usually need to use cloud machines, either [AWS](https://aws.amazon.com/) or [GCP](https://cloud.google.com/) (expensive!) or on local clusters such as [Nectar](https://nectar.org.au/) or [Spartan](https://dashboard.hpc.unimelb.edu.au/).

@@ -37,7 +37,7 @@ Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our 
 
 ## Research projects
 
-Students affiliated with the group have a primary supervisor (one of Gong, Wei, Murfet) and a co-supervisor, and are expected to participate in the group seminar. Generally speaking we only supervise students at Masters and PhD level, but exceptional undergraduates may also apply. Here are some of the currently active projects for which we are seeking student contributors:
+Students affiliated with the group are primarily supervised by one of Gong, Wei, or Murfet and are expected to participate in the group seminar. We supervise students at both Masters and PhD level. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 

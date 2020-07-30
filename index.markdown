@@ -59,6 +59,4 @@ To apply send an email to one of the primary supervisors [Gong](mailto:mingming.
 
 ## Events
 
-We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. Weekly office hours are on [Zoom](https://unimelb.zoom.us/j/537135126) every Tuesday 9-10am Melbourne time (all welcome, including undergradutes or non-students). For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the group is to subscribe to the [group mailing list](https://tinyletter.com/mdlg). 
-
-In semester two of 2020 we will be running deep learning bootcamps, and possibly other kinds of classes. **TBA**.
+We run a research seminar on a range of topics within deep learning, *in hiatus for semester one of 2020*. For past seminars see [here](seminar). The best way to be notified of upcoming deep learning classes, bootcamps or seminars run by the group is to subscribe to the [group mailing list](https://tinyletter.com/mdlg). 

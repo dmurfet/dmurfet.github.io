@@ -20,6 +20,8 @@ How do you get started? Here is our onramp for new students:
   
   * For reinforcement learning see [Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html).
   
+  * Know and respect the [history of these ideas](https://dennybritz.com/blog/deep-learning-most-important-ideas/).
+  
 For the projects related to singular learning theory:
 
   * S. Watanabe "[Almost all learning machines are singular](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/foci2007.pdf)", Invited Paper in FOCI2007.

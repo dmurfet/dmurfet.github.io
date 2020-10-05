@@ -14,6 +14,8 @@ Deep learning consists of a family of statistical models that can be optimised b
 
 * **Generalisation**. Stochastic gradient descent (SGD) is the optimisation algorithm which locates good configurations of a deep neural network among all possible parameters. In practice for modern architectures and with modern initialisation and normalisation, sufficiently large datasets and sufficient compute there is a high probability of SGD finding a neural network which not only achieves low loss on the training set but generalises well to the true distribution.
 
-* **Power laws**. The existence of [power laws](https://arxiv.org/abs/2001.08361) for neural language models is (in DM's opinion) likely to be from a historical perspective one the most important scientific discoveries of the early 21st century (with a much larger practical impact, and achieved at much lower cost, than the discovery of the Higgs boson).
+* **Power laws**. The existence of [power laws](https://arxiv.org/abs/2001.08361) for Transformer models is (in DM's opinion) likely to be from a historical perspective one the most important scientific discoveries of the early 21st century (with a much larger practical impact, and achieved at much lower cost, than the discovery of the Higgs boson).
 
 * **Parallelisation**. The performance of single-core CPUs hit a roof several decades ago. But neural network training can be made parallel in both the model and the data, so that large number of cores can be utilised to train large networks on large datasets. This means that the gains of scale predicted by power laws can be *realised in practice*. 
+
+It seems likely that we will continue to see interesting new phenomena emerge as the large scale regime for Transformers is explored (e.g. [GPT-3](https://arxiv.org/abs/2005.14165)) and as new architectures with even more favourable scaling exponents are found.

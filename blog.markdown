@@ -18,4 +18,4 @@ Deep learning consists of a family of statistical models that can be optimised b
 
 * **Parallelisation**. The performance of single-core CPUs hit a roof several decades ago. But neural network training can be made parallel in both the model and the data, so that large number of cores can be utilised to train large networks on large datasets. This means that the gains of scale predicted by power laws can be *realised in practice*. 
 
-It seems likely that we will continue to see interesting new phenomena emerge as the large scale regime for Transformers is explored (e.g. [GPT-3](https://arxiv.org/abs/2005.14165)) and as new architectures with even more favourable scaling exponents are found. This may cost as much as [10 milli-Manhattan-Projects](https://www.gwern.net/newsletter/2020/05#gpt-3).
+It seems likely that we will continue to see interesting new phenomena emerge as the large scale regime for Transformers is explored (e.g. [GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3)) and as new architectures with even more favourable scaling exponents are found.

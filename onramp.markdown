@@ -8,13 +8,17 @@ How do you get started? Here is our onramp for new students:
 
   * **Step 0**: Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" is an excellent survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment.
   
-  * **Step 1**: read Michael Nielsen's excellent online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (in a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student).
+  * **Step 1**: Install PyTorch and do the [60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
   
-  * **Step 2**: buy a copy of the [deep learning book](https://www.deeplearningbook.org/). For work in singular learning theory, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). You should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.
+  * **Step 2**: read Michael Nielsen's excellent online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (in a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student).
   
-  * **Step 3**: install and learn how to use one of the deep learning packages, [PyTorch](https://pytorch.org/) or [TensorFlow](https://www.tensorflow.org/).
-  
- More background reading:
+  * **Step 3**: buy a copy of the [deep learning book](https://www.deeplearningbook.org/). For work in singular learning theory, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). You should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.
+ 
+Lectures:
+
+  * The [DeepMind x UCL deep learning lecture series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) has been recommended by some of our current students.
+ 
+More background reading:
 
   * For more advanced topics in information theory and machine learning, see David MacKay's book "[Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)".
   
@@ -37,10 +41,10 @@ You can run some tutorials and basic experiments using free hosted Jupyter noteb
 You will need the following
 
   * Python >= 3.7 (on Mac or Windows you might like to install this via [Anaconda](https://www.anaconda.com/distribution/)).
-  * Deep learning libraries [PyTorch](https://pytorch.org/get-started/locally/) or [TensorFlow 2](https://www.tensorflow.org/install) on top of Python, what we use depends on the project.
-  * If you have a GPU you want to install drivers and [CUDA](https://developer.nvidia.com/cuda-zone) (a parallel computing platform and programming model developed by NVIDIA for general computing on GPUs) in the way suggested on the webpages for PyTorch and TensorFlow. If you only have a CPU (e.g. you are on a laptop) you can run the same code, but more slowly.
+  * Deep learning library [PyTorch](https://pytorch.org/get-started/locally/).
+  * If you have a GPU you want to install drivers and [CUDA](https://developer.nvidia.com/cuda-zone) (a parallel computing platform and programming model developed by NVIDIA for general computing on GPUs) in the way suggested on the PyTorch. If you only have a CPU (e.g. you are on a laptop) you can run the same code, but more slowly.
 
-You will run your models either through Jupyter notebooks hosted locally (Anaconda can help with that) or through Python files that you host and run through some other IDE (Susan likes [PyCharm](https://www.jetbrains.com/pycharm/)). Installing all this can be a painful process, when you get stuck **Google your error** and try again. Finally, find some basic PyTorch or TensorFlow tutorial online (e.g. training a small CNN on MNIST) and run it on your local machine to make sure everything works. 
+TensorFlow is another popular deep learning framework, but we all use PyTorch. You will run your models either through Jupyter notebooks hosted locally (Anaconda can help with that) or through Python files that you host and run through some other IDE (Susan likes [PyCharm](https://www.jetbrains.com/pycharm/)). Installing all this can be a painful process, when you get stuck **Google your error** and try again. Finally, find some basic PyTorch tutorial online (e.g. training a small CNN on MNIST) and run it on your local machine to make sure everything works. 
 
 **If you get really stuck, drop into office hours or the Discord** and one us will try to help (see the main page).
 

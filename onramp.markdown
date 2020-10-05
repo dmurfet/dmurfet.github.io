@@ -27,6 +27,8 @@ For the projects related to singular learning theory:
   * S. Watanabe "[Almost all learning machines are singular](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/foci2007.pdf)", Invited Paper in FOCI2007.
   
   * S. Watanabe "[A Widely Applicable Bayesian Information Criterion](http://www.jmlr.org/papers/volume14/watanabe13a/watanabe13a.pdf)" Journal of Machine Learning Research 14 (2013) 867-897.
+  
+  * MDLG "[Deep Learning is Singular, and That's Good](https://openreview.net/forum?id=8EGmvcCVrmZ)" 2020.
 
 # Installing software
 

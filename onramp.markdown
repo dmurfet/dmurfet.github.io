@@ -6,13 +6,13 @@ permalink: /onramp/
 
 How do you get started? Here is our onramp for new students:
 
-  * **Step 0**: Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" is an excellent survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment.
+  * **Step 0**: Watch Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" which is a survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment.
   
   * **Step 1**: Install PyTorch and do the [60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
   
-  * **Step 2**: read Michael Nielsen's excellent online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (in a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student).
+  * **Step 2**: Read Michael Nielsen's online book "[Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)" from beginning to end. Understand and run all the code, and do the exercises (**really**, do the exercises or it doesn't count). In a previous life Nielsen worked on quantum computing, you might have read his [textbook](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176) as a physics student.
   
-  * **Step 3**: buy a copy of the [deep learning book](https://www.deeplearningbook.org/). For work in singular learning theory, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). You should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.
+  * **Step 3**: Buy a copy of the [deep learning book](https://www.deeplearningbook.org/). For work in singular learning theory, the basic background is Chapter 3 Probability and Information theory (3.1-3.13), Chapter 5, Chapter 6, and Chapter 8 and for more advanced topics Chapter 19 (for variational inference and ELBO). You should know what the following terms mean: *Bayesian posterior*, *Kullback-Leibler divergence*, *feedforward network*, *stochastic gradient descent*.
  
 Lectures:
 

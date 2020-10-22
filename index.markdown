@@ -25,7 +25,7 @@ The group involves five faculty from across the School of Mathematics and Statis
 
 * **[Mingming Gong](https://mingming-gong.github.io/)**: causal discovery, transfer learning, deep learning. Some relevant papers: [NeurIPS 2019](https://arxiv.org/abs/1907.02690), [NeurIPS 2019](https://papers.nips.cc/paper/8912-likelihood-free-overcomplete-ica-and-applications-in-causal-discovery.pdf), [NeurIPS 2019](https://papers.nips.cc/paper/9506-specific-and-shared-causal-relation-modeling-and-mechanism-based-clustering.pdf), [ICML 2019](http://proceedings.mlr.press/v97/huang19g/huang19g.pdf), [CVPR 2019](https://arxiv.org/abs/1809.05852), [CVPR 2019](https://arxiv.org/pdf/1904.01870.pdf).
 
-* **Susan Wei**: statistics, reinforcement learning, singular learning theory. The recipient of a [2020 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253) to study fairness in deep learning.
+* **[Susan Wei](https://susanwei.netlify.app)**: statistics, reinforcement learning, singular learning theory. The recipient of a [2020 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253) to study fairness in deep learning.
 
 * **[Daniel Murfet](http://therisingsea.org/)**: algebraic geometry, logic, deep reinforcement learning, singular learning theory. Deep reinforcement learning paper: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr) and papers on linear logic: [1](https://arxiv.org/abs/1407.2650) [2](https://arxiv.org/abs/1805.10770) [3](https://arxiv.org/abs/1805.11813).
 

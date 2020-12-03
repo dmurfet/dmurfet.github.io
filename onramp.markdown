@@ -6,7 +6,7 @@ permalink: /onramp/
 
 How do you get started? Here is our onramp for new students:
 
-  * **Step 0**: Watch Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" which is a survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment.
+  * **Step 0**: Watch Yann LeCun's talk "[The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)" which is a survey of the history of deep learning, with an emphasis on the positive interaction between theory and experiment. As a companion article I recommend the LeCun-Bengio-Hinton [Nature review](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf).
   
   * **Step 1**: Install PyTorch and do the [60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
   

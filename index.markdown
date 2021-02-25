@@ -37,6 +37,19 @@ The other researchers in the group, for whom deep learning is a minor research a
 
 Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our favourite piece of music is his [Softbank Sinfonia](https://open.spotify.com/album/3Y0xYCNHtl6HNeEoxyP96c?si=5VHQ4D54RauyuPIO4rx6Jg) (now officially released!).
 
+### Students
+
+Our PhD students:
+
+* **Edmund Lau Tiew Hong**: singular learning theory, algebraic geometry.
+
+Our MSc sudents:
+
+* **Spencer Wong**: singular learning theory, algebraic geometry.
+* **Rohan Hitchcock**: singular learning theory, algebraic geometry.
+* **Liam Carroll**: singular learning theory, phase transitions and thermodynamics.
+* **Matt Farrugia-Roberts**
+
 ## Research projects
 
 Students affiliated with the group are primarily supervised by one of Gong, Wei, or Murfet and are expected to participate in the group seminar. We supervise students at both Masters and PhD level. Here are some of the currently active projects for which we are seeking student contributors:

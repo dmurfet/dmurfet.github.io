@@ -46,7 +46,7 @@ Our PhD students:
 Our MSc sudents:
 
 * **Spencer Wong**: singular learning theory, algebraic geometry.
-* **[Rohan Hitchcock](https://www.linkedin.com/in/rohan-hitchcock/)**: singular learning theory, algebraic geometry.
+* **[Rohan Hitchcock](http://rohanhitchcock.com/)**: singular learning theory, algebraic geometry.
 * **Liam Carroll**: singular learning theory, phase transitions and thermodynamics.
 * **Matt Farrugia-Roberts**
 

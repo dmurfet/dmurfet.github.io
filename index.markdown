@@ -70,6 +70,8 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
 
+* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
+
 * **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 
 * **Reasoning in deep reinforcement learning:** (led by [Daniel Murfet](http://therisingsea.org/)) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207) (joint with James Wallbridge and James Clift). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.

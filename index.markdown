@@ -64,11 +64,11 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
-* **Causal Representation Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text.
+* **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text.
 
-* **Deep Transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
+* **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 
-* **Deep Generative Models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
+* **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
 
 * **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 

@@ -68,15 +68,15 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 
-* **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
-
-* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
-
-* **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
+* **Fairness in deep learning:** (led by [Susan Wei](https://www.suswei.com/)) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 
 * **Reasoning in deep reinforcement learning:** (led by [Daniel Murfet](http://therisingsea.org/)) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207) (joint with James Wallbridge and James Clift). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
 
 * **Program synthesis in linear logic**: (led by [Daniel Murfet](http://therisingsea.org/)) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) with James Clift we are using differential linear logic to lay the foundations for a theory of gradient-based program synthesis ([survey](https://gist.github.com/dmurfet/688af9d4413cbb9a13ca5d50b28ddcbc)), also in the context of singular learning theory. This project involves logic as well as implementation in Tensorflow or PyTorch. These topics are discussed in [a recent talk](https://youtu.be/IW4LjjAWrO4).
+
+* **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
+
+* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 

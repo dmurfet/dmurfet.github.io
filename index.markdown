@@ -54,9 +54,9 @@ Our MSc sudents:
 * **[Rohan Hitchcock](http://rohanhitchcock.com/)**: singular learning theory, algebraic geometry.
 * **Liam Carroll**: singular learning theory, phase transitions and thermodynamics.
 * **Matt Farrugia-Roberts**
-* **Mark Drvodelic** graph neural networks, bioscience
-* **Qianjun Ding** 3D human pose estimation
-* **Kuoyuan Li** neural 3D portraits 
+* **Mark Drvodelic**: graph neural networks, bioscience
+* **Qianjun Ding**: 3D human pose estimation
+* **Kuoyuan Li**: neural 3D portraits 
 
 ## Research projects
 

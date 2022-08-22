@@ -23,11 +23,12 @@ Curious? Our [Discord](https://discord.gg/XwAc3hH) is a deep learning study grou
 
 The group involves five faculty from across the School of Mathematics and Statistics. The primary researchers are those for whom deep learning is a major component of their overall research agenda:
 
-* **[Mingming Gong](https://mingming-gong.github.io/)**: causal discovery, transfer learning, deep learning. Some relevant papers: [NeurIPS 2019](https://arxiv.org/abs/1907.02690), [NeurIPS 2019](https://papers.nips.cc/paper/8912-likelihood-free-overcomplete-ica-and-applications-in-causal-discovery.pdf), [NeurIPS 2019](https://papers.nips.cc/paper/9506-specific-and-shared-causal-relation-modeling-and-mechanism-based-clustering.pdf), [ICML 2019](http://proceedings.mlr.press/v97/huang19g/huang19g.pdf), [CVPR 2019](https://arxiv.org/abs/1809.05852), [CVPR 2019](https://arxiv.org/pdf/1904.01870.pdf).
+* **[Mingming Gong](https://mingming-gong.github.io/)**: causal representation learning, transfer learning, weakly-supervised learning, computer vision. The recipient of a [2021 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/RGS/Web/Grants/DE210101624) to study learning causal graphs from unstructured data using deep learning.
 
 * **[Susan Wei](https://www.suswei.com/)**: statistics, reinforcement learning, singular learning theory. The recipient of a [2020 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253) to study fairness in deep learning.
 
 * **[Daniel Murfet](http://therisingsea.org/)**: algebraic geometry, logic, deep reinforcement learning, singular learning theory. Deep reinforcement learning paper: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr) and papers on linear logic: [1](https://arxiv.org/abs/1407.2650) [2](https://arxiv.org/abs/1805.10770) [3](https://arxiv.org/abs/1805.11813).
+
 
 The other researchers in the group, for whom deep learning is a minor research area:
 
@@ -42,6 +43,10 @@ Our chief composer is [Lucas Cantor](https://www.lucascantormusic.com/) and our 
 Our PhD students:
 
 * **Edmund Lau Tiew Hong**: singular learning theory, algebraic geometry.
+* **Archer Moore**: causal representation learning, deep generative models
+* **Erdun Gao**: causal representation learning, transfer learning
+* **Dongting Hu**: depth estimation, neural radiance fields
+* **Ziye Chen**: 3D object detection/segmentation, neural architecture search, neural network compression
 
 Our MSc sudents:
 
@@ -49,6 +54,9 @@ Our MSc sudents:
 * **[Rohan Hitchcock](http://rohanhitchcock.com/)**: singular learning theory, algebraic geometry.
 * **Liam Carroll**: singular learning theory, phase transitions and thermodynamics.
 * **Matt Farrugia-Roberts**
+* **Mark Drvodelic** graph neural networks, bioscience
+* **Qianjun Ding** 3D human pose estimation
+* **Kuoyuan Li** neural 3D portraits 
 
 ## Research projects
 
@@ -56,11 +64,11 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
-* **Causal Discovery**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop methods to infer causal graphs from various kinds of observational data, for example, incomplete time series, noisy data, nonstationary/heterogeneous data, etc.
+* **Causal Representation Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text.
 
-* **Causal Domain Adaptation**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal information to develop machine learning models that can adapt to distributions different from the training distribution.
+* **Deep Transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 
-* **Deep Generative Models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution.
+* **Deep Generative Models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
 
 * **Fairness in deep learning:** (led by Susan Wei) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 

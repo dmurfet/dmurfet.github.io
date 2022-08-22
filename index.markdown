@@ -23,7 +23,7 @@ Curious? Our [Discord](https://discord.gg/XwAc3hH) is a deep learning study grou
 
 The group involves five faculty from across the School of Mathematics and Statistics. The primary researchers are those for whom deep learning is a major component of their overall research agenda:
 
-* **[Mingming Gong](https://mingming-gong.github.io/)**: causal representation learning, transfer learning, weakly-supervised learning, computer vision. The recipient of a [2021 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/RGS/Web/Grants/DE210101624) to study learning causal graphs from unstructured data using deep learning.
+* **[Mingming Gong](https://mingming-gong.github.io/)**: causal representation learning, transfer learning, trustworthy learning, computer vision. The recipient of a [2021 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/RGS/Web/Grants/DE210101624) to study learning causal graphs from unstructured data using deep learning.
 
 * **[Susan Wei](https://www.suswei.com/)**: statistics, reinforcement learning, singular learning theory. The recipient of a [2020 Discovery Early Career Researcher Award](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE200101253) to study fairness in deep learning.
 

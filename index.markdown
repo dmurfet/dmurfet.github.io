@@ -85,7 +85,7 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 
-To apply send an email to one of the primary supervisors [Gong](mailto:mingming.gong@unimelb.edu.au), [Wei](mailto:susan.wei@unimelb.edu.au) or [Murfet](mailto:d.murfet@unimelb.edu.au) with your CV and transcript (note the official process is no different to a normal Masters or PhD application, in particular we do not currently have any extraordinary scholarships to offer).
+To apply send an email to one of the primary supervisors [Gong](mailto:mingming.gong@unimelb.edu.au), [Wei](mailto:susan.wei@unimelb.edu.au), [Murfet](mailto:d.murfet@unimelb.edu.au), or [Liu](mailto:d.feng.liu1@unimelb.edu.au) with your CV and transcript (note the official process is no different to a normal Masters or PhD application, in particular we do not currently have any extraordinary scholarships to offer).
 
 ## Events
 

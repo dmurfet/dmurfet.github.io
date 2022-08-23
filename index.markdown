@@ -67,7 +67,7 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Fairness in deep learning**: (led by [Susan Wei](https://www.suswei.com/) and [Mingming Gong](https://mingming-gong.github.io/)) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 
-* **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text, and make use of the learned graphs for prediction and decision making.
+* **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text, and make use of the learned graphs for causal reasoning and decision making.
 
 * **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 

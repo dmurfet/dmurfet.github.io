@@ -69,7 +69,7 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text, and make use of the learned graphs for causal reasoning and decision making.
 
-* **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
+* **Deep transfer learning**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 
 * **Hypothesis testing**: (led by [Feng Liu](https://fengliu90.github.io/)): develop deep learning based kernel hypothesis testing methods: including goodness-of-fit testing, two-sample testing, and independent testing. The developed methods can be applied to various data types, such as images.
 
@@ -81,7 +81,7 @@ Students affiliated with the group are primarily supervised by one of Gong, Wei,
 
 * **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
 
-* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
+* **3D computer vision**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 

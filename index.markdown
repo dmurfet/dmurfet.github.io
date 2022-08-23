@@ -29,6 +29,7 @@ The group involves five faculty from across the School of Mathematics and Statis
 
 * **[Daniel Murfet](http://therisingsea.org/)**: algebraic geometry, logic, deep reinforcement learning, singular learning theory. Deep reinforcement learning paper: [ICLR 2020](https://openreview.net/forum?id=rkecJ6VFvr) and papers on linear logic: [1](https://arxiv.org/abs/1407.2650) [2](https://arxiv.org/abs/1805.10770) [3](https://arxiv.org/abs/1805.11813).
 
+* **[Feng Liu](https://fengliu90.github.io/)**: Hypothesis testing via deep learning, transfer learning, and trustworthy machine learning: adversarial data detection/generalization, out-of-distribution data detection/generalization, and privacy-leakage detection/protection of deep learning technologies. 
 
 The other researchers in the group, for whom deep learning is a minor research area:
 
@@ -62,21 +63,25 @@ Our MSc sudents:
 
 Students affiliated with the group are primarily supervised by one of Gong, Wei, or Murfet and are expected to participate in the group seminar. We supervise students at both Masters and PhD level. Here are some of the currently active projects for which we are seeking student contributors:
 
-* **Singular learning theory:** (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
+* **Singular learning theory**: (led by Susan Wei, [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 
-* **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text.
+* **Fairness in deep learning**: (led by [Susan Wei](https://www.suswei.com/) and [Mingming Gong](https://mingming-gong.github.io/)) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
 
-* **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
+* **Causal representation learning**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to infer causal graphs from unstructured data, such as images and text, and make use of the learned graphs for prediction and decision making.
 
-* **Fairness in deep learning:** (led by [Susan Wei](https://www.suswei.com/)) develop and implement statistical methods to fight against algorithm bias, by improving techniques for imposing invariance on deep learning algorithms.
+* **Deep transfer Learning**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) leverage causal knowledge to develop deep learning models that can generalize/adapt to test data with distributions different from the training distribution, with applications to computer vision.
 
-* **Reasoning in deep reinforcement learning:** (led by [Daniel Murfet](http://therisingsea.org/)) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207) (joint with James Wallbridge and James Clift). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
+* **Hypothesis testing**: (led by [Feng Liu](https://fengliu90.github.io/)): develop deep learning based kernel hypothesis testing methods: including goodness-of-fit testing, two-sample testing, and independent testing. The developed methods can be applied to various data types, such as images.
+
+* **Reasoning in deep reinforcement learning**: (led by [Daniel Murfet](http://therisingsea.org/)) in follow-up work to the [simplicial Transformer](https://openreview.net/forum?id=rkecJ6VFvr) we are applying these methods to the study of error correcting codes in the design of topological quantum computers, along the lines of [Sweke et al](https://arxiv.org/abs/1810.07207) (joint with James Wallbridge and James Clift). There are a variety of other possible projects in the context of deep reinforcement learning and Transformer architectures for scientific applications.
 
 * **Program synthesis in linear logic**: (led by [Daniel Murfet](http://therisingsea.org/)) building on a series of [recent](https://arxiv.org/abs/1805.10770) [papers](https://arxiv.org/abs/1805.11813) with James Clift we are using differential linear logic to lay the foundations for a theory of gradient-based program synthesis ([survey](https://gist.github.com/dmurfet/688af9d4413cbb9a13ca5d50b28ddcbc)), also in the context of singular learning theory. This project involves logic as well as implementation in Tensorflow or PyTorch. These topics are discussed in [a recent talk](https://youtu.be/IW4LjjAWrO4).
 
+* **Trustworthy machine learning**: (led by [Feng Liu](https://fengliu90.github.io/)): develop deep learning algorithm to train trustworthy models in complex and imperfect environments; make deep models be trusted when facing adversarial attacks, out-of-distribution data, and privacy attacks.
+
 * **Deep generative models**: (led by [Mingming Gong](https://mingming-gong.github.io/)) leverage the power of neural networks to learn a function which can approximate the model distribution to the true distribution, with applications to image generation and editing.
 
-* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
+* **3D computer Vision**: (led by [Mingming Gong](https://mingming-gong.github.io/) and [Feng Liu](https://fengliu90.github.io/)) develop deep learning methods to understand the geometry and depth of 3D scenes from 2D images.
 
 The required background for these projects varies widely. In the more engineering-led projects you should already be a highly competent programmer and some kind of coding test may be part of the application process. For the more theory-led projects we are looking for students with a strong pure math background and basic programming skills (and the willingness to quickly develop those skills).
 

@@ -64,7 +64,7 @@ Our MSc sudents:
 
 ## Research projects
 
-Students affiliated with the group are primarily supervised by one of Gong, Wei, or Murfet and are expected to participate in the group seminar. We supervise students at both Masters and PhD level. Here are some of the currently active projects for which we are seeking student contributors:
+Students affiliated with the group are primarily supervised by one of Gong, Wei, Murfet, Liu, or Hodgkinson and are expected to participate in the group seminar. We supervise students at both PhD and Masters level. Here are some of the currently active projects for which we are seeking student contributors:
 
 * **Singular learning theory**: (led by [Susan Wei](https://www.suswei.com/), [Daniel Murfet](http://therisingsea.org/), [Jesse Gell-Redman](https://sites.google.com/site/jessegellredman/), [Thomas Quella](https://researchers.ms.unimelb.edu.au/~tquella@unimelb/#home), and [Liam Hodgkinson](https://www.liamhodgkinson.com)) Applications of algebraic geometry and stochastic processes to the development of a foundational theory of deep learning, following the work of [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/singular-learning-theory.html).
 

@@ -19,24 +19,16 @@ We are part of the
   [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home)
 at the University of Melbourne.
 
-We aim to publish research in top conferences
-  (e.g., [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/),
-  [ICLR](https://iclr.cc/)).
-We also aim to train Master's and PhD students in deep learning.
-We hope that some of these students will found companies, providing
-employment for other mathematicians and contributing to responsible
-Australian productivity growth through new forms of perceptual and cognitive
-automation.
-
-**We are looking for highly-motivated students to join our group**,
+**We are looking for highly-motivated students to join our group**
 at either Master's or PhD level.
 You can be interested in anything from the engineering aspect of deep
 learning, all the way through to the algebraic geometry and statistics of
 neural networks.
-Interested? Check out our list of [research projects](#research-projects) and
+
+**Interested?** Check out our list of [research projects](#research-projects) and
 then [contact us](#prospective-students).
 
-Curious about deep learning?
+**Curious?**
 Our [Discord server](https://discord.gg/XwAc3hH) is a deep learning study group.
 All welcome.
 You can also check out the [onramp](onramp).
@@ -45,12 +37,22 @@ Subscribe to the [group mailing list](https://tinyletter.com/mdlg) to be
 notified of upcoming deep learning classes, bootcamps or seminars run by the
 group.
 
+<!-- We hope that that some of our students will found companies, providing
+employment for other mathematicians and contributing to responsible
+Australian productivity growth through new forms of perceptual and cognitive
+automation. -->
+
 <!--We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep
 learning.-->
 
-<!--Feel free to drop by for a chat in our **public office hours** on [Zoom](https://unimelb.zoom.us/j/537135126) (on hiatus for one week while a new time is decided, see Discord).-->
+<!--Feel free to drop by for a chat in our **public office hours** on
+[Zoom](https://unimelb.zoom.us/j/537135126) (on hiatus for one week while a
+new time is decided, see Discord).-->
 
-<!--*Iluka is an Aboriginal Australian word meaning: [by the sea](https://www.gnb.nsw.gov.au/place_naming/placename_search/extract?id=MackXtrXan).*-->
+<!--
+*Iluka is an Aboriginal Australian word meaning:
+[by the sea](https://www.gnb.nsw.gov.au/place_naming/placename_search/extract?id=MackXtrXan).*
+-->
 
 ## People
 
@@ -128,13 +130,13 @@ Our PhD students:
 
 Our Master's sudents:
 
-* **Adrian Xu** (Master of Computer Science)
+* **Adrian Xu** (Master of Computer Science).
 * **Mark Drvodelic:**
-  graph neural networks, bioscience
+  graph neural networks, bioscience.
 * **Qianjun Ding:**
-  3D human pose estimation
+  3D human pose estimation.
 * **Kuoyuan Li:**
-  neural 3D portraits 
+  neural 3D portraits.
 
 ### Affiliates
 
@@ -148,29 +150,39 @@ Visiting research associates:
 Affiliated PhD students:
 
 * **[Rohan Hitchcock](http://rohanhitchcock.com/):**
-  physics and deep learning.
+  physics and deep learning, singular learning theory.
 
 ### Alumni
 
 Former Master's students:
 
-* **Spencer Wong:**
+* **[Rohan Hitchcock](http://rohanhitchcock.com/)**
+  (Master of Science in Mathematics and Statistics, 2022)**:**
   singular learning theory, algebraic geometry.
-* **[Rohan Hitchcock](http://rohanhitchcock.com/):**
+* **Spencer Wong**
+  (Master of Science in Mathematics and Statistics, 2022)**:**
   singular learning theory, algebraic geometry.
-* **[Liam Carroll](https://lemmykc.github.io/):**
-  singular learning theory, phase transitions and thermodynamics.
 * **[Matthew Farrugia-Roberts](https://far.in.net)**
-  (Master of Computer Science)**:**
+  (Master of Computer Science, 2021--2022)**:**
   singular learning theory, neural network geometry.
+* **[Liam Carroll](https://lemmykc.github.io/)**
+  (Master of Science in Mathematics and Statistics, 2021)**:**
+  singular learning theory, phase transitions and thermodynamics.
 
 
 ## Research projects
 
+We aim to publish research in top conferences
+  (e.g., [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/),
+  [ICLR](https://iclr.cc/)),
+and to train our students in deep learning.
+
 Students affiliated with the group are primarily supervised by one of
 Gong, Wei, Murfet, Liu, or Hodgkinson.
 <!--and are expected to participate in the group seminar.-->
-We supervise students at both PhD and Masters level. Here are some of the
+We supervise students at both PhD and Master's levels.
+
+Here are some of the
 currently active projects for which we are seeking student contributors:
 
 * **Singular learning theory**
@@ -274,7 +286,7 @@ develop those skills).
 
 ## Prospective students
 
-We are looking for highly-motivated students to join our group, at either
+We are looking for highly-motivated students to join our group at either
 Master's or PhD level.
 
 To apply, send an email to one of the primary supervisors

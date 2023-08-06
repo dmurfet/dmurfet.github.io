@@ -5,14 +5,16 @@ layout: home
 ![Great ocean road](ocean.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
 
 There is a new industrial revolution on the way.
-There is much work to be done mastering new advancements and navigating our
-society through to the other side.
+There is much work to be done, understanding and mastering the fundamental
+theory and science of deep learning, and applying this knowledge to safely
+unlock its benefits for society.
 It is imperative that Australia increases the growth-rate of research and
 applied expertise in deep learning.
 
 Welcome to MDLG.
-We are mathematicians working on deep learning, from fundamental mathematical
-theory through to real-world applications (and their implications).
+We are mathematicians researching deep learning, from fundamental
+mathematical theory through to real-world applications (and their
+implications).
 We are part of the
   [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home)
 at the University of Melbourne.
@@ -26,8 +28,8 @@ employment for other mathematicians and contributing to responsible
 Australian productivity growth through new forms of perceptual and cognitive
 automation.
 
-We are looking for highly-motivated students to join our group, at either
-Master's or PhD level.
+**We are looking for highly-motivated students to join our group**,
+at either Master's or PhD level.
 You can be interested in anything from the engineering aspect of deep
 learning, all the way through to the algebraic geometry and statistics of
 neural networks.
@@ -144,6 +146,9 @@ Visiting research associates:
   singular learning theory, developmental interpretability.
 
 Affiliated PhD students:
+
+* **[Rohan Hitchcock](http://rohanhitchcock.com/):**
+  physics and deep learning.
 
 ### Alumni
 

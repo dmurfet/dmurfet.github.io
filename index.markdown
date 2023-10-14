@@ -127,6 +127,10 @@ Our PhD students:
 * **Ziye Chen:**
   3D object detection/segmentation, neural architecture search, neural
   network compression.
+* **Zhongtian Chen:**
+  singular learning theory, algebraic geometry.
+* **Benjamin Gerraty:**
+  singular learning theory, conformal field theory.
 
 Our Master's sudents:
 

@@ -146,6 +146,8 @@ Our Master's sudents:
 
 Visiting research associates:
 
+* **[Jesse Hoogland](https://www.jessehoogland.com/):**
+  singular learning theory, developmental interpretability.
 * **[Liam Carroll](https://lemmykc.github.io/):**
   singular learning theory, developmental interpretability.
 * **[Matthew Farrugia-Roberts](https://far.in.net):**

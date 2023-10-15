@@ -11,7 +11,7 @@ unlock its benefits for society.
 It is imperative that Australia increases the growth-rate of research and
 applied expertise in deep learning.
 
-Welcome to MDLG.
+**Welcome to MDLG.**
 We are mathematicians researching deep learning, from fundamental
 mathematical theory through to real-world applications (and their
 implications).
@@ -21,33 +21,27 @@ at the University of Melbourne.
 
 **We are looking for highly-motivated students to join our group**
 at either Master's or PhD level.
-You can be interested in anything from the engineering aspect of deep
+You can be interested in anything from the engineering aspects of deep
 learning, all the way through to the algebraic geometry and statistics of
 neural networks.
-
-**Interested?** Check out our list of [research projects](#research-projects) and
-then [contact us](#prospective-students).
-
-**Curious?**
-Our [Discord server](https://discord.gg/XwAc3hH) is a deep learning study group.
-All welcome.
-You can also check out the [onramp](onramp).
-
-Subscribe to the [group mailing list](https://tinyletter.com/mdlg) to be
-notified of upcoming deep learning classes, bootcamps or seminars run by the
-group.
-
 <!-- We hope that that some of our students will found companies, providing
 employment for other mathematicians and contributing to responsible
 Australian productivity growth through new forms of perceptual and cognitive
 automation. -->
 
-<!--We run a [seminar](http://therisingsea.org/post/seminar-ch/) on deep
-learning.-->
+**Interested?** Check out our list of [research projects](#research-projects)
+and then [contact us](#prospective-students).
+You can also check out the [onramp](onramp).
 
-<!--Feel free to drop by for a chat in our **public office hours** on
-[Zoom](https://unimelb.zoom.us/j/537135126) (on hiatus for one week while a
-new time is decided, see Discord).-->
+**Curious?**
+Check out our [seminars](#events) and [online hubs](#community-hubs).
+All are welcome.
+
+<!--
+Subscribe to the [group mailing list](https://tinyletter.com/mdlg) to be
+notified of upcoming deep learning classes, bootcamps or seminars run by the
+group.
+-->
 
 <!--
 *Iluka is an Aboriginal Australian word meaning:
@@ -56,9 +50,9 @@ new time is decided, see Discord).-->
 
 ## People
 
-The group involves faculty from across the School of Mathematics and
-Statistics, as well as students from the School of Mathematics and Statistics
-and the School of Computing and Information Systems.
+The group involves faculty and students from across the School of Mathematics
+and Statistics and the School of Computing and Information Systems at the
+University of Melbourne.
 
 ### Faculty
 
@@ -308,8 +302,44 @@ The official process for enrolment at the University of Melbourne is no
 different to a normal Master's or PhD application, in particular we do not
 currently have any extraordinary scholarships to offer.
 
+## Community hubs
+
+For singular learning theory, active communities exist here:
+
+* [metauni](https://metauni.org) is a community of scholars in the metaverse,
+  with an active Discord server and weekly seminars hosted mainly in Roblox.
+  The seminars cover a broad range of topics including singular learning
+  theory and AI safety.
+* [Timaeus](https://timaeus.co/) is a research organisation applying singular
+  learning theory to understand complex deep learning systems.
+  Timaeus organises conferences and reading groups and maintains an active
+  research Discord server.
+
+All are welcome to join.
+
+Previously, our [MDLG discord server](https://discord.gg/XwAc3hH) was a deep
+learning study group, but it is no longer very active.
+
+<!--
+Feel free to drop by for a chat in our **public office hours** on
+[Zoom](https://unimelb.zoom.us/j/537135126) (on hiatus for one week while a
+new time is decided, see Discord).
+-->
+
+
 ## Events
 
-We previously ran a research seminar on a range of topics within deep
-learning.
-For past seminars see [here](seminar).
+MDLG occasionally organises events such as research hackathons and
+conferences.
+At the moment the best way to hear about events is to join one of our active
+[community hubs](#community-hubs).
+
+Since 2021, we run weekly virtual seminars on research topics including
+singular learning theory and AI safety.
+These seminars run as part of [metauni](https://metauni.org/).
+
+We previously ran an in-person research seminar on a range of topics within
+deep learning. For past seminars including video recordings see
+[here](seminar) and [here](http://therisingsea.org/post/seminar-ch/).
+
+
